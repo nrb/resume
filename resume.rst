@@ -1,13 +1,14 @@
 Nolan Brubaker
 --------------
+
 Programmer
 ++++++++++
 
-nolan.brubaker@gmail.com
+:Email: nolan.brubaker@gmail.com
 
 Education
 =========
-:B.S.: Bachelor of Science in Informatics with concentration in Computer Science, December 2010. Indiana University South Bend, South Bend, IN.
+Bachelor of Science in Informatics with concentration in Computer Science, December 2010. Indiana University South Bend, South Bend, IN.
 
 Technical Skills
 ================
