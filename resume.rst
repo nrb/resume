@@ -29,7 +29,7 @@ Positions Held
    * Developed an HTTP-based peer-to-peer protocol and chat system in Python (using Flask_) and JavaScript that supports several thousand simultaneous clients, along with a testing framework.
    * Began a framework based on Django_ for launching, managing, and reporting on jobs based on open source command line tools for monitoring environmental change.
    * Created web crawler that searched for words within poems on the web and provided information on the pages it found for use with visualizations_ by a arts professor.
-   * Wrote a prototype implementation of interactive subtitles and elements associated with an HTML5 video.
+   * Wrote a JavaScript prototype implementation of interactive subtitles and elements associated with an HTML5 video.
    * Implemented workflows based on Subversion and Trac.
    * Trained other programmers in better practices, like unit testing and source control.
 
