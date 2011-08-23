@@ -27,11 +27,11 @@ Positions Held
 :2010-Present: Research Programmer - `Center for Research Computing`_, University of Notre Dame. Helped faculty and students utilize web technologies in their research. Some highlights:
 
    * Developed an HTTP-based peer-to-peer protocol and chat system in Python (using Flask_) and JavaScript that supports several thousand simultaneous clients, along with a testing framework.
-   * Began a framework based on Django for launching, managing, and reporting on jobs based on open source command line tools for monitoring environmental change.
+   * Began a framework based on Django_ for launching, managing, and reporting on jobs based on open source command line tools for monitoring environmental change.
    * Created web crawler that searched for words within poems on the web and provided information on the pages it found for use with visualizations_ by a arts professor.
    * Wrote a prototype implementation of interactive subtitles and elements associated with an HTML5 video.
    * Implemented workflows based on Subversion and Trac.
-   * Trained other programmers in better practices.
+   * Trained other programmers in better practices, like unit testing and source control.
 
 
 :2006-2010: Network Administrator - `MapleTronics Computers`_, Goshen, IN.  Managed internal network, as well as installing and managing networks, servers, and software for clients.  Some of my main duties included:
@@ -54,3 +54,4 @@ Positions Held
 .. _Eldarion: http://eldarion.com
 .. _visualizations: http://www.youtube.com/watch?v=WQxkCQndoZc
 .. _Flask: http://flask.pocoo.org
+.. _Django: http://djangoproject.com
