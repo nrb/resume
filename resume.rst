@@ -21,11 +21,13 @@ Technical Skills
 Projects
 ========
 :Packaginator_: Helped reorganize code for the `Django Packages`_ framework during PyCon 2011 Sprints.
+:django-uploadify_: Collaborator on django-uploadify_, a re-usable Django app that wraps the Uploadify_ multiple file uploader.
 
 Positions Held
 ==============
-:2011-Present: Development Contractor - Eldarion_. Helped Eldarion team develop web applications for clients using the Django framwork.
-:2010-Present: Research Programmer - `Center for Research Computing`_, University of Notre Dame. Helped faculty and students utilize web technologies in their research. Some highlights:
+:2011-Present: Freelancer, specializing in Python and Django.  Clients inlcude: Eldarion_
+  
+:2010-2011: Research Programmer - `Center for Research Computing`_, University of Notre Dame. Helped faculty and students utilize web technologies in their research. Some highlights:
 
    * Developed an HTTP-based peer-to-peer protocol and chat system in Python (using Flask_) and JavaScript that supports several thousand simultaneous clients, along with a testing framework.
    * Began a framework based on Django_ for launching, managing, and reporting on jobs based on open source command line tools for monitoring environmental change.
@@ -57,3 +59,5 @@ Positions Held
 .. _visualizations: http://www.youtube.com/watch?v=WQxkCQndoZc
 .. _Flask: http://flask.pocoo.org
 .. _Django: http://djangoproject.com
+.. _django-uploadify: https://github.com/tstone/django-uploadify
+.. _Uploadify: http://www.uploadify.com
