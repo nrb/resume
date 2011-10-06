@@ -4,7 +4,8 @@ Nolan Brubaker
 Programmer
 ++++++++++
 
-:Email: nolan.brubaker@gmail.com
+:Email: nolan@nbrubaker.com
+:GitHub: https://github.com/nrb
 
 Education
 =========
