@@ -1,1 +1,5 @@
 #footer { text-align: center; margin-top: 40px; }
+
+a { color: gray; text-decoration: none; font-weight: bold;}
+a:visited { color: gray; }
+a:hover { color: black; }
