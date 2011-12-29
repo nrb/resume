@@ -1,6 +1,6 @@
 from fabric.api import *
 
-code_dir = "~/nbrubaker.com"
+code_dir = "~/nbrubaker.com/"
 
 def checkout():
     with cd(code_dir):
