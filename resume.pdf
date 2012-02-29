@@ -1,0 +1,1052 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER1': class PDFDictionary 
+4 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (mailto:nolan@nbrubaker.com) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 153.7323
+ 689.7736
+ 255.0323
+ 701.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER2': class PDFDictionary 
+5 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://github.com/nrb) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 153.7323
+ 674.7736
+ 526.5827
+ 686.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER3': class PDFDictionary 
+6 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://github.com/cartwheelweb/packaginator) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 75.60228
+ 410.7736
+ 138.4023
+ 422.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER4': class PDFDictionary 
+7 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://djangopackages.com/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 302.0925
+ 410.7736
+ 386.5586
+ 422.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER5': class PDFDictionary 
+8 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://github.com/tstone/django-uploadify) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 57.84228
+ 383.7736
+ 138.4023
+ 395.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER6': class PDFDictionary 
+9 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://github.com/tstone/django-uploadify) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 226.6304
+ 383.7736
+ 300.0004
+ 395.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER7': class PDFDictionary 
+10 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.uploadify.com) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 484.9027
+ 383.7736
+ 525.7036
+ 395.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER8': class PDFDictionary 
+11 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://eldarion.com) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 433.2923
+ 311.7736
+ 469.9723
+ 323.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page1': class PDFPage 
+12 0 obj
+% Page dictionary
+<< /Annots [ 4 0 R
+ 5 0 R
+ 6 0 R
+ 7 0 R
+ 8 0 R
+ 9 0 R
+ 10 0 R
+ 11 0 R ]
+ /Contents 28 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 27 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER9': class PDFDictionary 
+13 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://crc.nd.edu) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 264.2444
+ 753.7736
+ 405.8965
+ 765.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER10': class PDFDictionary 
+14 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://flask.pocoo.org) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 209.5536
+ 696.7736
+ 233.4436
+ 708.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER11': class PDFDictionary 
+15 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://djangoproject.com) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 315.5275
+ 666.7736
+ 351.0665
+ 678.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER12': class PDFDictionary 
+16 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.youtube.com/watch?v=WQxkCQndoZc) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 424.6541
+ 582.7736
+ 487.3403
+ 594.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER13': class PDFDictionary 
+17 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.mapletronics.com) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 266.5824
+ 480.7736
+ 380.1425
+ 492.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER14': class PDFDictionary 
+18 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.mapletronics.com) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 370.9901
+ 351.7736
+ 484.3414
+ 363.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page2': class PDFPage 
+19 0 obj
+% Page dictionary
+<< /Annots [ 13 0 R
+ 14 0 R
+ 15 0 R
+ 16 0 R
+ 17 0 R
+ 18 0 R ]
+ /Contents 29 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 27 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R20': class PDFCatalog 
+20 0 obj
+% Document Root
+<< /Outlines 22 0 R
+ /PageLabels 30 0 R
+ /PageMode /UseNone
+ /Pages 27 0 R
+ /Type /Catalog >>
+endobj
+% 'R21': class PDFInfo 
+21 0 obj
+<< /Author ()
+ /CreationDate (D:20120228212310+05'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (Nolan Brubaker) >>
+endobj
+% 'R22': class PDFOutlines 
+22 0 obj
+<< /Count 4
+ /First 23 0 R
+ /Last 26 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+23 0 obj
+<< /Dest [ 12 0 R
+ /XYZ
+ 62.69291
+ 659.0236
+ 0 ]
+ /Next 24 0 R
+ /Parent 22 0 R
+ /Title (Education) >>
+endobj
+% 'Outline.1': class OutlineEntryObject 
+24 0 obj
+<< /Dest [ 12 0 R
+ /XYZ
+ 62.69291
+ 596.0236
+ 0 ]
+ /Next 25 0 R
+ /Parent 22 0 R
+ /Prev 23 0 R
+ /Title (Technical Skills) >>
+endobj
+% 'Outline.2': class OutlineEntryObject 
+25 0 obj
+<< /Dest [ 12 0 R
+ /XYZ
+ 62.69291
+ 455.0236
+ 0 ]
+ /Next 26 0 R
+ /Parent 22 0 R
+ /Prev 24 0 R
+ /Title (Projects) >>
+endobj
+% 'Outline.3': class OutlineEntryObject 
+26 0 obj
+<< /Dest [ 12 0 R
+ /XYZ
+ 62.69291
+ 356.0236
+ 0 ]
+ /Parent 22 0 R
+ /Prev 25 0 R
+ /Title (Positions Held) >>
+endobj
+% 'R27': class PDFPages 
+27 0 obj
+% page tree
+<< /Count 2
+ /Kids [ 12 0 R
+ 19 0 R ]
+ /Type /Pages >>
+endobj
+% 'R28': class PDFStream 
+28 0 obj
+% page stream
+<< /Length 4583 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+BT 1 0 0 1 0 4 Tm 160.4849 0 Td 24 TL /F2 20 Tf 0 0 0 rg (Nolan Brubaker) Tj T* -160.4849 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL 190.3499 0 Td (Programmer) Tj T* -190.3499 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 686.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 43.02937 0 Td (Email:) Tj T* -43.02937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (nolan@nbrubaker.com) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 671.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 36.37937 0 Td (GitHub:) Tj T* -36.37937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (https://github.com/nrb) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 638.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Education) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 608.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.058314 Tw (Bachelor of Science in Informatics with concentration in Computer Science, December 2010. Indiana) Tj T* 0 Tw (University South Bend, South Bend, IN.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 575.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Technical Skills) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 563.0236 cm
+Q
+q
+1 0 0 1 62.69291 536.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 25.80937 0 Td (Operating) Tj T* 2.77 0 Td (Systems:) Tj T* -28.57937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (OS X, Linux, Windows \(client and servers\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 509.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 16.91937 0 Td (Languages:) Tj T* -16.91937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.103039 Tw (Strong skills in Python, intermediate knowledge of Erlang, Ruby, JavaScript, SQL,) Tj T* 0 Tw (C/C++, Java, PHP, bash) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 482.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL 28.57937 0 Td (Database) Tj T* 0 0 Td (Systems:) Tj T* -28.57937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (PostgreSQL, Microsoft SQL Server) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 467.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 6.35937 0 Td (Project Tools:) Tj T* -6.35937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (SVN, git, Trac) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 434.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Projects) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 422.0236 cm
+Q
+q
+1 0 0 1 62.69291 395.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+BT 1 0 0 1 0 2 Tm 6.90937 0 Td 12 TL /F2 10 Tf 0 0 .501961 rg (Packaginator) Tj 0 0 0 rg (:) Tj T* -6.90937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+BT 1 0 0 1 0 14 Tm 1.658039 Tw 12 TL /F1 10 Tf 0 0 0 rg (Helped reorganize code for the ) Tj 0 0 .501961 rg (Django Packages ) Tj 0 0 0 rg (framework during PyCon 2011) Tj T* 0 Tw (Sprints.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 368.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+BT 1 0 0 1 0 2 Tm -10.85063 0 Td 12 TL /F2 10 Tf 0 0 .501961 rg (django-uploadify) Tj 0 0 0 rg (:) Tj T* 10.85063 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+BT 1 0 0 1 0 14 Tm .879039 Tw 12 TL /F1 10 Tf 0 0 0 rg (Collaborator on ) Tj 0 0 .501961 rg (django-uploadify) Tj 0 0 0 rg (, a re-usable Django app that wraps the ) Tj 0 0 .501961 rg (Uploadify) Tj T* 0 Tw 0 0 0 rg (multiple file uploader.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 335.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Positions Held) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 323.0236 cm
+Q
+q
+1 0 0 1 62.69291 308.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 7.45937 0 Td (2011-Present:) Tj T* -7.45937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Freelancer, specializing in Python and Django. Clients inlcude: ) Tj 0 0 .501961 rg (Eldarion) Tj T* ET
+Q
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+% 'R29': class PDFStream 
+29 0 obj
+% page stream
+<< /Length 7299 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 492.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 261 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 21.89937 0 Td (2010-2011:) Tj T* -21.89937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 237 cm
+q
+BT 1 0 0 1 0 26 Tm .164039 Tw 12 TL /F1 10 Tf 0 0 0 rg (Research Programmer - ) Tj 0 0 .501961 rg (Center for Research Computing) Tj 0 0 0 rg (, University of Notre Dame.) Tj T* 0 Tw 3.492039 Tw (Helped faculty and students utilize web technologies in their research. Some) Tj T* 0 Tw (highlights:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 231 cm
+Q
+q
+1 0 0 1 91.03937 231 cm
+Q
+q
+1 0 0 1 91.03937 195 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 26 Tm 1.38671 Tw 12 TL /F1 10 Tf 0 0 0 rg (Developed an HTTP-based peer-to-peer protocol and chat system in Python) Tj T* 0 Tw 2.811299 Tw (\(using ) Tj 0 0 .501961 rg (Flask) Tj 0 0 0 rg (\) and JavaScript that supports several thousand simultaneous) Tj T* 0 Tw (clients, along with a testing framework.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 189 cm
+Q
+q
+1 0 0 1 91.03937 153 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 26 Tm 1.079039 Tw 12 TL /F1 10 Tf 0 0 0 rg (Began a framework based on ) Tj 0 0 .501961 rg (Django ) Tj 0 0 0 rg (for launching, managing, and reporting) Tj T* 0 Tw 6.305039 Tw (on jobs based on open source command line tools for monitoring) Tj T* 0 Tw (environmental change.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 147 cm
+Q
+q
+1 0 0 1 91.03937 123 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.233672 Tw (Implemented a Django app to generate dynamic data for a Flash application) Tj T* 0 Tw (meant to use static XML fles.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 117 cm
+Q
+q
+1 0 0 1 91.03937 81 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 26 Tm 1.550033 Tw 12 TL /F1 10 Tf 0 0 0 rg (Created web crawler that searched for words within poems on the web and) Tj T* 0 Tw .446184 Tw (provided information on the pages it found for use with ) Tj 0 0 .501961 rg (visualizations ) Tj 0 0 0 rg (by a arts) Tj T* 0 Tw (professor.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 75 cm
+Q
+q
+1 0 0 1 91.03937 51 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 3.992549 Tw (Wrote a JavaScript prototype implementation of interactive subtitles and) Tj T* 0 Tw (elements associated with an HTML5 video.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 45 cm
+Q
+q
+1 0 0 1 91.03937 33 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Implemented workflows based on Subversion and Trac.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 27 cm
+Q
+q
+1 0 0 1 91.03937 3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.250039 Tw (Trained other programmers in better practices, like unit testing and source) Tj T* 0 Tw (control.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 363.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 117 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 21.89937 0 Td (2006-2010:) Tj T* -21.89937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 93 cm
+q
+BT 1 0 0 1 0 26 Tm 1.870049 Tw 12 TL /F1 10 Tf 0 0 0 rg (Network Administrator - ) Tj 0 0 .501961 rg (MapleTronics Computers) Tj 0 0 0 rg (, Goshen, IN. Managed internal) Tj T* 0 Tw 2.014581 Tw (network, as well as installing and managing networks, servers, and software for) Tj T* 0 Tw (clients. Some of my main duties included:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 87 cm
+Q
+q
+1 0 0 1 91.03937 87 cm
+Q
+q
+1 0 0 1 91.03937 75 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Automating processes through custom VBScript and PowerShell scripts.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 69 cm
+Q
+q
+1 0 0 1 91.03937 33 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 4.548799 Tw (Maintaining over 1,000 computers, both workstations and servers. This) Tj T* 0 Tw 4.798799 Tw (included managing virtual machines with VMware ESX and Microsoft's) Tj T* 0 Tw (Hyper-V.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 27 cm
+Q
+q
+1 0 0 1 91.03937 3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 3.021299 Tw (Integrated reporting across several different systems using Microsoft SQL) Tj T* 0 Tw (Server Reporting Services and T-SQL.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 264.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 87 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 21.89937 0 Td (2003-2006:) Tj T* -21.89937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 63 cm
+q
+BT 1 0 0 1 0 26 Tm 1.661299 Tw 12 TL /F1 10 Tf 0 0 0 rg (HelpDesk Representative & Retail Salesman - ) Tj 0 0 .501961 rg (MapleTronics Computers) Tj 0 0 0 rg (, Goshen) Tj T* 0 Tw .714039 Tw (IN. Assisted customers with technology questions and purchasing decisions. A few) Tj T* 0 Tw (of the skills I acquired during this time:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 57 cm
+Q
+q
+1 0 0 1 91.03937 57 cm
+Q
+q
+1 0 0 1 91.03937 33 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .636039 Tw (Communicating technical concepts in a way that clients could understand and) Tj T* 0 Tw (learn from.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 27 cm
+Q
+q
+1 0 0 1 91.03937 3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 3.022549 Tw (Finding compromises and solutions to mitigate problematic situations with) Tj T* 0 Tw (customers.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+% 'R30': class PDFPageLabels 
+30 0 obj
+% Document Root
+<< /Nums [ 0
+ 31 0 R
+ 1
+ 32 0 R ] >>
+endobj
+% 'R31': class PDFPageLabel 
+31 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+% 'R32': class PDFPageLabel 
+32 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
+xref
+0 33
+0000000000 65535 f
+0000000113 00000 n
+0000000221 00000 n
+0000000386 00000 n
+0000000573 00000 n
+0000000817 00000 n
+0000001057 00000 n
+0000001319 00000 n
+0000001563 00000 n
+0000001823 00000 n
+0000002083 00000 n
+0000002326 00000 n
+0000002550 00000 n
+0000002922 00000 n
+0000003159 00000 n
+0000003401 00000 n
+0000003645 00000 n
+0000003907 00000 n
+0000004154 00000 n
+0000004386 00000 n
+0000004733 00000 n
+0000004892 00000 n
+0000005154 00000 n
+0000005279 00000 n
+0000005449 00000 n
+0000005641 00000 n
+0000005825 00000 n
+0000005984 00000 n
+0000006101 00000 n
+0000010783 00000 n
+0000018185 00000 n
+0000018291 00000 n
+0000018368 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(*\264\021\001L\263vw[\032\342Y\226jU|) (*\264\021\001L\263vw[\032\342Y\226jU|)] 
+
+ /Info 21 0 R
+ /Root 20 0 R
+ /Size 33 >>
+startxref
+18415
+%%EOF
