@@ -137,15 +137,30 @@ endobj
  /Border [ 0
  0
  0 ]
- /Rect [ 433.2923
- 311.7736
- 469.9723
- 323.7736 ]
+ /Rect [ 176.7323
+ 290.7736
+ 216.1923
+ 302.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER9': class PDFDictionary 
+12 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.theredpost.com) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 176.7323
+ 272.7736
+ 220.6423
+ 284.7736 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 % 'Page1': class PDFPage 
-12 0 obj
+13 0 obj
 % Page dictionary
 << /Annots [ 4 0 R
  5 0 R
@@ -154,13 +169,14 @@ endobj
  8 0 R
  9 0 R
  10 0 R
- 11 0 R ]
- /Contents 28 0 R
+ 11 0 R
+ 12 0 R ]
+ /Contents 29 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 27 0 R
+ /Parent 28 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -171,8 +187,8 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-% 'Annot.NUMBER9': class PDFDictionary 
-13 0 obj
+% 'Annot.NUMBER10': class PDFDictionary 
+14 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://crc.nd.edu) >>
@@ -186,8 +202,8 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER10': class PDFDictionary 
-14 0 obj
+% 'Annot.NUMBER11': class PDFDictionary 
+15 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://flask.pocoo.org) >>
@@ -201,8 +217,8 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER11': class PDFDictionary 
-15 0 obj
+% 'Annot.NUMBER12': class PDFDictionary 
+16 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://djangoproject.com) >>
@@ -216,8 +232,8 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER12': class PDFDictionary 
-16 0 obj
+% 'Annot.NUMBER13': class PDFDictionary 
+17 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.youtube.com/watch?v=WQxkCQndoZc) >>
@@ -231,8 +247,8 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER13': class PDFDictionary 
-17 0 obj
+% 'Annot.NUMBER14': class PDFDictionary 
+18 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.mapletronics.com) >>
@@ -246,8 +262,8 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Annot.NUMBER14': class PDFDictionary 
-18 0 obj
+% 'Annot.NUMBER15': class PDFDictionary 
+19 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.mapletronics.com) >>
@@ -262,20 +278,20 @@ endobj
  /Type /Annot >>
 endobj
 % 'Page2': class PDFPage 
-19 0 obj
+20 0 obj
 % Page dictionary
-<< /Annots [ 13 0 R
- 14 0 R
+<< /Annots [ 14 0 R
  15 0 R
  16 0 R
  17 0 R
- 18 0 R ]
- /Contents 29 0 R
+ 18 0 R
+ 19 0 R ]
+ /Contents 30 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 27 0 R
+ /Parent 28 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -286,90 +302,90 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-% 'R20': class PDFCatalog 
-20 0 obj
+% 'R21': class PDFCatalog 
+21 0 obj
 % Document Root
-<< /Outlines 22 0 R
- /PageLabels 30 0 R
+<< /Outlines 23 0 R
+ /PageLabels 31 0 R
  /PageMode /UseNone
- /Pages 27 0 R
+ /Pages 28 0 R
  /Type /Catalog >>
 endobj
-% 'R21': class PDFInfo 
-21 0 obj
+% 'R22': class PDFInfo 
+22 0 obj
 << /Author ()
- /CreationDate (D:20120228212310+05'00')
+ /CreationDate (D:20120304201502+05'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
  /Subject (\(unspecified\))
  /Title (Nolan Brubaker) >>
 endobj
-% 'R22': class PDFOutlines 
-22 0 obj
+% 'R23': class PDFOutlines 
+23 0 obj
 << /Count 4
- /First 23 0 R
- /Last 26 0 R
+ /First 24 0 R
+ /Last 27 0 R
  /Type /Outlines >>
 endobj
 % 'Outline.0': class OutlineEntryObject 
-23 0 obj
-<< /Dest [ 12 0 R
+24 0 obj
+<< /Dest [ 13 0 R
  /XYZ
  62.69291
  659.0236
  0 ]
- /Next 24 0 R
- /Parent 22 0 R
+ /Next 25 0 R
+ /Parent 23 0 R
  /Title (Education) >>
 endobj
 % 'Outline.1': class OutlineEntryObject 
-24 0 obj
-<< /Dest [ 12 0 R
+25 0 obj
+<< /Dest [ 13 0 R
  /XYZ
  62.69291
  596.0236
  0 ]
- /Next 25 0 R
- /Parent 22 0 R
- /Prev 23 0 R
+ /Next 26 0 R
+ /Parent 23 0 R
+ /Prev 24 0 R
  /Title (Technical Skills) >>
 endobj
 % 'Outline.2': class OutlineEntryObject 
-25 0 obj
-<< /Dest [ 12 0 R
+26 0 obj
+<< /Dest [ 13 0 R
  /XYZ
  62.69291
  455.0236
  0 ]
- /Next 26 0 R
- /Parent 22 0 R
- /Prev 24 0 R
+ /Next 27 0 R
+ /Parent 23 0 R
+ /Prev 25 0 R
  /Title (Projects) >>
 endobj
 % 'Outline.3': class OutlineEntryObject 
-26 0 obj
-<< /Dest [ 12 0 R
+27 0 obj
+<< /Dest [ 13 0 R
  /XYZ
  62.69291
  356.0236
  0 ]
- /Parent 22 0 R
- /Prev 25 0 R
+ /Parent 23 0 R
+ /Prev 26 0 R
  /Title (Positions Held) >>
 endobj
-% 'R27': class PDFPages 
-27 0 obj
+% 'R28': class PDFPages 
+28 0 obj
 % page tree
 << /Count 2
- /Kids [ 12 0 R
- 19 0 R ]
+ /Kids [ 13 0 R
+ 20 0 R ]
  /Type /Pages >>
 endobj
-% 'R28': class PDFStream 
-28 0 obj
+% 'R29': class PDFStream 
+29 0 obj
 % page stream
-<< /Length 4583 >>
+<< /Length 5321 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -590,21 +606,74 @@ q
 1 0 0 1 62.69291 323.0236 cm
 Q
 q
-1 0 0 1 62.69291 308.0236 cm
+1 0 0 1 62.69291 272.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 3 cm
+1 0 0 1 6 39 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 7.45937 0 Td (2011-Present:) Tj T* -7.45937 0 Td ET
 Q
 Q
 q
-1 0 0 1 91.03937 3 cm
+1 0 0 1 91.03937 39 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Freelancer, specializing in Python and Django. Clients inlcude: ) Tj 0 0 .501961 rg (Eldarion) Tj T* ET
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Freelancer, specializing in Python and Django. Clients inlcude:) Tj T* ET
 Q
+Q
+q
+1 0 0 1 91.03937 33 cm
+Q
+q
+1 0 0 1 91.03937 33 cm
+Q
+q
+1 0 0 1 91.03937 21 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Eldarion ) Tj 0 0 0 rg (\(Django, Python\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 15 cm
+Q
+q
+1 0 0 1 91.03937 3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Red Post ) Tj 0 0 0 rg (\(Ruby, Ruby on Rails, Eventmachine\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
 Q
 q
 Q
@@ -612,8 +681,8 @@ Q
  
 endstream
 endobj
-% 'R29': class PDFStream 
-29 0 obj
+% 'R30': class PDFStream 
+30 0 obj
 % page stream
 << /Length 7299 >>
 stream
@@ -984,28 +1053,28 @@ Q
  
 endstream
 endobj
-% 'R30': class PDFPageLabels 
-30 0 obj
+% 'R31': class PDFPageLabels 
+31 0 obj
 % Document Root
 << /Nums [ 0
- 31 0 R
+ 32 0 R
  1
- 32 0 R ] >>
-endobj
-% 'R31': class PDFPageLabel 
-31 0 obj
-% None
-<< /S /D
- /St 1 >>
+ 33 0 R ] >>
 endobj
 % 'R32': class PDFPageLabel 
 32 0 obj
 % None
 << /S /D
+ /St 1 >>
+endobj
+% 'R33': class PDFPageLabel 
+33 0 obj
+% None
+<< /S /D
  /St 2 >>
 endobj
 xref
-0 33
+0 34
 0000000000 65535 f
 0000000113 00000 n
 0000000221 00000 n
@@ -1018,35 +1087,36 @@ xref
 0000001823 00000 n
 0000002083 00000 n
 0000002326 00000 n
-0000002550 00000 n
-0000002922 00000 n
-0000003159 00000 n
-0000003401 00000 n
-0000003645 00000 n
-0000003907 00000 n
-0000004154 00000 n
-0000004386 00000 n
-0000004733 00000 n
-0000004892 00000 n
-0000005154 00000 n
-0000005279 00000 n
-0000005449 00000 n
-0000005641 00000 n
-0000005825 00000 n
-0000005984 00000 n
-0000006101 00000 n
-0000010783 00000 n
-0000018185 00000 n
-0000018291 00000 n
-0000018368 00000 n
+0000002564 00000 n
+0000002794 00000 n
+0000003176 00000 n
+0000003413 00000 n
+0000003655 00000 n
+0000003899 00000 n
+0000004161 00000 n
+0000004408 00000 n
+0000004640 00000 n
+0000004987 00000 n
+0000005146 00000 n
+0000005408 00000 n
+0000005533 00000 n
+0000005703 00000 n
+0000005895 00000 n
+0000006079 00000 n
+0000006238 00000 n
+0000006355 00000 n
+0000011775 00000 n
+0000019177 00000 n
+0000019283 00000 n
+0000019360 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(*\264\021\001L\263vw[\032\342Y\226jU|) (*\264\021\001L\263vw[\032\342Y\226jU|)] 
+ [(&\361\242\312R\017z\235\372"\200\234S\016\324J) (&\361\242\312R\017z\235\372"\200\234S\016\324J)] 
 
- /Info 21 0 R
- /Root 20 0 R
- /Size 33 >>
+ /Info 22 0 R
+ /Root 21 0 R
+ /Size 34 >>
 startxref
-18415
+19407
 %%EOF
