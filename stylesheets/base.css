@@ -116,6 +116,7 @@
 	li { line-height: 18px; margin-bottom: 12px; }
 	ul.large li { line-height: 21px; }
 	li p { line-height: 21px; }
+    dd { padding-left: 15px; font-size: .85em;}
 
 /* #Images
 ================================================== */
