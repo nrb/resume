@@ -1,3 +1,3 @@
-The resume file is built then viewed with the following command::
+Prequisites can be installed with `make install`
 
-rst2pdf -s cv.pdfstyle resume.rst && open resume.pdf
+The resume file is built then viewed with `make view`
