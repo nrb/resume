@@ -50,9 +50,9 @@ Positions Held
 :2010-2011: Research Programmer - `Center for Research Computing`_, University of Notre Dame. Helped faculty and students utilize web technologies in their research. Some highlights:
 
    * Developed an HTTP-based peer-to-peer protocol and chat system in Python (using Flask_) and JavaScript that supports several thousand simultaneous clients, along with a testing framework.
-   * Began a framework based on Django_ for launching, managing, and reporting on jobs based on open source command line tools for monitoring environmental change.
-   * Implemented a Django app to generate dynamic data for a Flash application meant to use static XML fles.
-   * Created web crawler that searched for words within poems on the web and provided information on the pages it found for use with visualizations_ by a arts professor.
+   * Began a framework based on Django_ and Celery_ for launching, managing, and reporting on jobs based on open source command line tools for monitoring environmental change. Originally prototyped in Erlang
+   * Implemented a Django app to generate dynamic data for a Flash application meant to use static XML files.
+   * Created web crawler that searched for words within poems on the web, and provided information on the pages it found for use with visualizations_ by an arts professor.
    * Wrote a JavaScript prototype implementation of interactive subtitles and elements associated with an HTML5 video.
    * Implemented project workflows based on Subversion and Trac.
    * Trained other programmers in better practices, like unit testing, source control, and bug tracking.
@@ -79,5 +79,6 @@ Positions Held
 .. _visualizations: http://www.youtube.com/watch?v=WQxkCQndoZc
 .. _Flask: http://flask.pocoo.org
 .. _Django: http://djangoproject.com
+.. _Celery: http://www.celeryproject.org
 .. _django-uploadify: https://github.com/tstone/django-uploadify
 .. _Uploadify: http://www.uploadify.com
