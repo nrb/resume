@@ -65,10 +65,7 @@ Positions Held
   * Integrated reporting across several different systems using Microsoft SQL Server Reporting Services and T-SQL.
 
 
-:2003-2006: HelpDesk Representative & Retail Salesman - `MapleTronics Computers`_, Goshen IN.  Assisted customers with technology questions and purchasing decisions.  A few of the skills I acquired during this time:
-
-  * Communicating technical concepts in a way that clients could understand and learn from.
-  * Finding compromises and solutions to mitigate problematic situations with customers.
+:2003-2006: HelpDesk Representative & Retail Salesman - `MapleTronics Computers`_, Goshen IN.  Assisted customers with technology questions and purchasing decision
 
 
 .. _`Six Feet Up, Inc.`: http://www.sixfeetup.com
