@@ -34,10 +34,9 @@ Positions Held
  
    * Implemented PubSubHubBub 'hub' and 'client' servers in Pyramid and Plone for syndicating content between various intranets.
    * Wrote and designed a Pyramid- and SQLAlchemy-based OpenID server
-   * Implemented and maintained Pyramid package templates for faster project ramp up times.
+   * Implemented and maintained Pyramid package templates to make starting projects more efficient.
    * Refined Solr-based searching on client sites.
    * Provided technical estimates and guidance to project managers and customers for project implementations.
-   * Maintained client legacy Plone 3 sites.
    * Responsible for releasing client sites to testing, staging, and, production environments.
 
 :2011-2012: Freelancer, specializing in Python and Django.  Clients include: Eldarion_, `Red Post`_, `Carbon Black`_
