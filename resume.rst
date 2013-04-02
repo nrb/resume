@@ -61,7 +61,7 @@ Positions Held
 :2006-2010: Network Administrator - `MapleTronics Computers`_, Goshen, IN.  Managed internal network, as well as installing and managing networks, servers, and software for clients.  Some of my main duties included:
 
   * Automating processes through custom VBScript and PowerShell scripts.
-  * Maintaining over 1,000 computers, both workstations and servers.  This included managing virtual machines with VMware ESX and Microsoft's Hyper-V.
+  * Maintaining over 1,000 Windows computers, both workstations and servers using Kaseya management software and custom scripts.
   * Integrated reporting across several different systems using Microsoft SQL Server Reporting Services and T-SQL.
 
 
