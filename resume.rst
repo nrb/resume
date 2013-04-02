@@ -58,14 +58,14 @@ Positions Held
    * Trained other programmers in better practices, like unit testing, source control, and bug tracking.
 
 
-:2006-2010: Network Administrator - `MapleTronics Computers`_, Goshen, IN.  Managed internal network, as well as installing and managing networks, servers, and software for clients.  Some of my main duties included:
+:2006-2010: Network Administrator - `MapleTronics Computers`_.  Managed internal network, as well as installing and managing networks, servers, and software for clients.  Some of my main duties included:
 
   * Automating processes through custom VBScript and PowerShell scripts.
   * Maintaining over 1,000 Windows computers, both workstations and servers using Kaseya management software and custom scripts.
   * Integrated reporting across several different systems using Microsoft SQL Server Reporting Services and T-SQL.
 
 
-:2003-2006: HelpDesk Representative & Retail Salesman - `MapleTronics Computers`_, Goshen IN.  Assisted customers with technology questions and purchasing decision
+:2003-2006: HelpDesk Representative & Retail Salesman - `MapleTronics Computers`_.  Assisted customers with technology questions and purchasing decision
 
 
 .. _`Six Feet Up, Inc.`: http://www.sixfeetup.com
