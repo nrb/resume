@@ -40,12 +40,13 @@ Positions Held
    * Maintained client legacy Plone 3 sites.
    * Responsible for releasing client sites to testing, staging, and, production environments.
 
-:2011-2012: Freelancer, specializing in Python and Django.  Clients inlcude: Eldarion_, `Red Post`_
+:2011-2012: Freelancer, specializing in Python and Django.  Clients include: Eldarion_, `Red Post`_, `Carbon Black`_
+
    * Implemented a JavaScript bus route tracking component for Red Post digital signs.
    * Extended a Rails- and MongoDB-based money transfer kiosk.
    * Contributed re-usable Django apps for the Pinax project.
    * Implemented Django apps for communicating with GIS Java server
-   * Began an implementation of a DoD vulnerability report based on the CarbonBlack security monitoring software.
+   * Began an implementation of a DoD vulnerability report based on the Carbon Black security monitoring software in Flask.
   
 :2010-2011: Research Programmer - `Center for Research Computing`_, University of Notre Dame. Helped faculty and students utilize web technologies in their research. Some highlights:
 
@@ -75,6 +76,7 @@ Positions Held
 .. _`Django Packages`: http://djangopackages.com/
 .. _Eldarion: http://eldarion.com
 .. _`Red Post`: http://www.redpost.com
+.. _`Carbon Black`: http://www.carbonblack.com/
 .. _visualizations: http://www.youtube.com/watch?v=WQxkCQndoZc
 .. _Flask: http://flask.pocoo.org
 .. _Django: http://djangoproject.com
