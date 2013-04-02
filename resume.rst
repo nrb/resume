@@ -30,7 +30,7 @@ Presentations
 Positions Held
 ==============
 
-:2012-present: Web Developer, `Six Feet Up, Inc.`. Implementing and maintaining client Plone and Pyramid web sites and web apps.
+:2012-present: Web Developer, `Six Feet Up, Inc.`_. Implementing and maintaining client Plone and Pyramid web sites and web apps.
  
    * Implemented PubSubHubBub 'hub' and 'client' servers in Pyramid and Plone for syndicating content between various intranets.
    * Wrote and designed a Pyramid- and SQLAlchemy-based OpenID server
@@ -71,7 +71,7 @@ Positions Held
   * Finding compromises and solutions to mitigate problematic situations with customers.
 
 
-.. _`Six Feet Up, Inc`: http://www.sixfeetup,com
+.. _`Six Feet Up, Inc.`: http://www.sixfeetup.com
 .. _`Center for Research Computing`: http://crc.nd.edu
 .. _`MapleTronics Computers`: http://www.mapletronics.com
 .. _Packaginator: https://github.com/cartwheelweb/packaginator
