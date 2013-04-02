@@ -14,7 +14,7 @@ Bachelor of Science in Informatics with concentration in Computer Science, Decem
 Technical Skills
 ================
 :Operating Systems: OS X, Linux, Windows (client and servers)
-:Languages: Strong skills in Python, intermediate knowledge of Erlang, Ruby, JavaScript, SQL, bash
+:Languages: Strong skills in Python, intermediate knowledge of Erlang, Ruby, JavaScript, SQL
 :Database Systems: PostgreSQL, Microsoft SQL Server
 :Project Tools: SVN, git, Trac
 
