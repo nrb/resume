@@ -362,7 +362,7 @@ endobj
 % 'R25': class PDFInfo 
 25 0 obj
 << /Author ()
- /CreationDate (D:20130402182542+05'00')
+ /CreationDate (D:20130409174540+05'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
@@ -631,7 +631,7 @@ Q
 q
 1 0 0 1 91.03937 3 cm
 q
-BT 1 0 0 1 0 14 Tm 1.658039 Tw 12 TL /F1 10 Tf 0 0 0 rg (Helped reorganize code for the ) Tj 0 0 .501961 rg (Django Packages ) Tj 0 0 0 rg (framework during PyCon 2010) Tj T* 0 Tw (Sprints.) Tj T* ET
+BT 1 0 0 1 0 14 Tm 1.658039 Tw 12 TL /F1 10 Tf 0 0 0 rg (Helped reorganize code for the ) Tj 0 0 .501961 rg (Django Packages ) Tj 0 0 0 rg (framework during PyCon 2011) Tj T* 0 Tw (Sprints.) Tj T* ET
 Q
 Q
 q
@@ -1395,7 +1395,7 @@ xref
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(\223\203%\253I\250\355i\360\230\341\031\000\317\372\365) (\223\203%\253I\250\355i\360\230\341\031\000\317\372\365)] 
+ [(\334\210i\276\221-\256>\262%\225\000\200\302\343U) (\334\210i\276\221-\256>\262%\225\000\200\302\343U)] 
 
  /Info 25 0 R
  /Root 24 0 R

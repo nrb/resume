@@ -20,7 +20,7 @@ Technical Skills
 
 Projects
 ========
-:Packaginator_: Helped reorganize code for the `Django Packages`_ framework during PyCon 2010 Sprints.
+:Packaginator_: Helped reorganize code for the `Django Packages`_ framework during PyCon 2011 Sprints.
 :django-uploadify_: Collaborator on django-uploadify_, a re-usable Django app that wraps the Uploadify_ multiple file uploader.
 
 Presentations
