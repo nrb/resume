@@ -30,7 +30,15 @@ Presentations
 Positions Held
 ==============
 
-:2012-present: Web Developer, `Six Feet Up, Inc.`_. Implementing and maintaining client Plone and Pyramid web sites and web apps.
+:2013-present: Software Developer, Cox Media Group. Improving and maintaining a large scale Django CMS.
+
+    * Implemented retargeting pixel system to help serve unique ads to site visitors
+    * Built prototypes for new features
+    * Added methods for advertisement traffickers to manage Google Doubleclick for Publishers ads from within our custom CMS.
+    * Wrote custom tools for managing our development environment
+    * Collaborated with quality assurance team and business stake holders to meet software requirements.
+
+:2012-2013: Web Developer, `Six Feet Up, Inc.`_. Implementing and maintaining client Plone and Pyramid web sites and web apps.
  
    * Implemented PubSubHubBub 'hub' and 'client' servers in Pyramid and Plone for syndicating content between various intranets.
    * Wrote and designed a Pyramid- and SQLAlchemy-based OpenID server
