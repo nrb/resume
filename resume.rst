@@ -18,11 +18,6 @@ Technical Skills
 :Database Systems: PostgreSQL, Microsoft SQL Server
 :Project Tools: SVN, git, Trac
 
-Projects
-========
-:Packaginator_: Helped reorganize code for the `Django Packages`_ framework during PyCon 2011 Sprints.
-:django-uploadify_: Collaborator on django-uploadify_, a re-usable Django app that wraps the Uploadify_ multiple file uploader.
-
 Presentations
 =============
 :ZODB: PyOhio 2012, presented on the Zope Object Database for Python applications.
@@ -30,13 +25,14 @@ Presentations
 Positions Held
 ==============
 
-:2013-present: Software Developer, Cox Media Group. Improving and maintaining a large scale Django CMS.
+:2013-present: Software Developer, Cox Media Group. Improving and maintaining a large scale Django CMS (10 million page views per day).
 
     * Implemented retargeting pixel system to help serve unique ads to site visitors
     * Built prototypes for new features
     * Added methods for advertisement traffickers to manage Google Doubleclick for Publishers ads from within our custom CMS.
     * Wrote custom tools for managing our development environment
     * Collaborated with quality assurance team and business stake holders to meet software requirements.
+    * Documented existing Google ads integration library
 
 :2012-2013: Web Developer, `Six Feet Up, Inc.`_. Implementing and maintaining client Plone and Pyramid web sites and web apps.
  
@@ -79,8 +75,6 @@ Positions Held
 .. _`Six Feet Up, Inc.`: http://www.sixfeetup.com
 .. _`Center for Research Computing`: http://crc.nd.edu
 .. _`MapleTronics Computers`: http://www.mapletronics.com
-.. _Packaginator: https://github.com/cartwheelweb/packaginator
-.. _`Django Packages`: http://djangopackages.com/
 .. _Eldarion: http://eldarion.com
 .. _`Red Post`: http://www.redpost.com
 .. _`Carbon Black`: http://www.carbonblack.com/
@@ -88,5 +82,3 @@ Positions Held
 .. _Flask: http://flask.pocoo.org
 .. _Django: http://djangoproject.com
 .. _Celery: http://www.celeryproject.org
-.. _django-uploadify: https://github.com/tstone/django-uploadify
-.. _Uploadify: http://www.uploadify.com
