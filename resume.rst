@@ -25,7 +25,12 @@ Presentations
 Positions Held
 ==============
 
-:2013-present: Software Developer, Cox Media Group. Improving and maintaining a large scale Django CMS (10 million page views per day).
+:2014-present: Automation Engineer, Cox Media Group. Improving and maintaining tools around a large (40+) developer team.
+
+    * Implemented self-service jobs in Hudson/Jenkins for developers to start git respositiories and caching PyPI packages.
+    * Maintained custom bash and Python tools for wrapping applications, simplifying usage.
+
+:2013-2014: Software Developer, Cox Media Group. Improving and maintaining a large scale Django CMS (10 million page views per day).
 
     * Implemented retargeting pixel system to help serve unique ads to site visitors
     * Built prototypes for new features
