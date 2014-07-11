@@ -29,6 +29,7 @@ Positions Held
 
     * Implemented self-service jobs in Hudson/Jenkins for developers to start git respositiories and caching PyPI packages.
     * Maintained custom bash and Python tools for wrapping applications, simplifying usage.
+    * Planned unified Packer images for local development and testing environments.
 
 :2013-2014: Software Developer, Cox Media Group. Improving and maintaining a large scale Django CMS (10 million page views per day).
 
