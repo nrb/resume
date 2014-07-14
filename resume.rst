@@ -54,7 +54,6 @@ Positions Held
    * Extended a Rails- and MongoDB-based money transfer kiosk.
    * Contributed re-usable Django apps for the Pinax project.
    * Implemented Django apps for communicating with GIS Java server
-   * Began an implementation of a DoD vulnerability report based on the Carbon Black security monitoring software in Flask.
   
 :2010-2011: Research Programmer - `Center for Research Computing`_, University of Notre Dame. Helped faculty and students utilize web technologies in their research. Some highlights:
 
@@ -62,7 +61,6 @@ Positions Held
    * Began a framework based on Django_ and Celery_ for launching, managing, and reporting on jobs based on open source command line tools for monitoring environmental change. Originally prototyped in Erlang
    * Implemented a Django app to generate dynamic data for a Flash application meant to use static XML files.
    * Created web crawler that searched for words within poems on the web, and provided information on the pages it found for use with visualizations_ by an arts professor.
-   * Wrote a JavaScript prototype implementation of interactive subtitles and elements associated with an HTML5 video.
    * Implemented project workflows based on Subversion and Trac.
    * Trained other programmers in better practices, like unit testing, source control, and bug tracking.
 
@@ -71,10 +69,7 @@ Positions Held
 
   * Automating processes through custom VBScript and PowerShell scripts.
   * Maintaining over 1,000 Windows computers, both workstations and servers using Kaseya management software and custom scripts.
-  * Integrated reporting across several different systems using Microsoft SQL Server Reporting Services and T-SQL.
 
-
-:2003-2006: HelpDesk Representative & Retail Salesman - `MapleTronics Computers`_.  Assisted customers with technology questions and purchasing decision
 
 
 .. _`Six Feet Up, Inc.`: http://www.sixfeetup.com
