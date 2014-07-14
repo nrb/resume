@@ -1,11 +1,13 @@
 Nolan Brubaker
 --------------
 
-Programmer
-++++++++++
 
 :Email: nolan@nbrubaker.com
 :GitHub: https://github.com/nrb
+
+Goal
+====
+To obtain a programming position that simplifies developer's lives and increases their effectiveness.
 
 Education
 =========
