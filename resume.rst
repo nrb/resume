@@ -15,9 +15,9 @@ Bachelor of Science in Informatics with concentration in Computer Science, Decem
 Technical Skills
 ================
 :Operating Systems: OS X, Linux
-:Languages: Strong skills in Python, intermediate knowledge of Erlang, Ruby, JavaScript, SQL, bash
+:Languages: Strong skills in Python, intermediate knowledge of bash, Ansible
 :Database Systems: PostgreSQL
-:Project Tools: git, Jira
+:Project Tools: git, Jira, GitHub, Gerrit
 
 Presentations
 =============
@@ -25,6 +25,15 @@ Presentations
 
 Positions Held
 ==============
+
+
+:2014-present: Software Developer, Rackspace, Inc. Writing and maintaining Ansible playbooks and roles for installing OpenStack.
+
+    * Implemented Ansible playbooks and roles for the `openstack-ansible`_ project and `rpc-openstack`_ product.
+    * Triaged and prioritized bugs and feature requests from both community members and internal support staff.
+    * Led project around upgrading `openstack-ansible`_/`rpc-openstack`_ code bases between Juno and Kilo releases.
+    * Collaborated with community members and internal coworkers to write new feature specifications, online and in person.
+    * Wrote initial developer documentation for `openstack-ansible`_.
 
 :2014-present: Automation Engineer, Cox Media Group. Improving and maintaining tools around a large (40+) developer team.
 
@@ -83,3 +92,5 @@ Positions Held
 .. _Flask: http://flask.pocoo.org
 .. _Django: http://djangoproject.com
 .. _Celery: http://www.celeryproject.org
+.. _openstack-ansible: https://github.com/openstack/openstack-ansible
+.. _rpc-openstack: https://github.com/rcbops/rpc-openstack
