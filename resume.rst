@@ -45,7 +45,6 @@ Positions Held
     * Implemented retargeting pixel system to help serve unique ads to site visitors
     * Added methods for advertisement traffickers to manage Google Doubleclick for Publishers ads from within our custom CMS.
     * Wrote custom tools for managing our development environment
-    * Collaborated with quality assurance team and business stake holders to meet software requirements.
     * Documented existing Google ads integration library
 
 :2012-2013: Web Developer, `Six Feet Up, Inc.`_. Implementing and maintaining client Plone and Pyramid web sites and apps.
@@ -53,7 +52,6 @@ Positions Held
    * Implemented PubSubHubBub 'hub' and 'client' servers in Pyramid and Plone for syndicating content between various intranets.
    * Wrote and designed a Pyramid- and SQLAlchemy-based OpenID server
    * Implemented and maintained Pyramid package templates to make starting projects more efficient.
-   * Refined Solr-based searching on client sites.
    * Provided technical estimates and guidance to project managers and customers for project implementations.
 
 :2011-2012: Freelancer, specializing in Python and Django.  Clients included: Eldarion_, `Red Post`_, `Carbon Black`_
@@ -61,7 +59,6 @@ Positions Held
    * Implemented a JavaScript bus route tracking component for Red Post digital signs.
    * Extended a Rails- and MongoDB-based money transfer kiosk application.
    * Contributed re-usable Django apps for the Pinax project.
-   * Implemented Django apps for communicating with a GIS Java server
   
 :2010-2011: Research Programmer - `Center for Research Computing`_, University of Notre Dame. Helped faculty and students utilize web technologies in their research.
 
@@ -75,7 +72,6 @@ Positions Held
 :2006-2010: Network Administrator - `MapleTronics Computers`_.  Managed internal network, as well as installing and managing networks, servers, and software for clients.
 
   * Automating processes through custom VBScript and PowerShell scripts.
-  * Maintaining over 1,000 Windows computers, both workstations and servers using Kaseya management software and custom scripts.
 
 
 
