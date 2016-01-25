@@ -6,7 +6,7 @@ Nolan Brubaker
 
 Goal
 ====
-To obtain a programming position that simplifies developer's lives and increases their effectiveness.
+Simplify developer's lives and increases their effectiveness.
 
 Education
 =========
