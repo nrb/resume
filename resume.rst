@@ -58,7 +58,7 @@ Positions Held
 
    * Implemented a JavaScript bus route tracking component for Red Post digital signs.
    * Extended a Rails- and MongoDB-based money transfer kiosk application.
-   * Contributed re-usable Django apps for the Pinax project.
+   * Contributed re-usable Django apps to the Pinax project.
   
 :2010-2011: Research Programmer - `Center for Research Computing`_, University of Notre Dame. Helped faculty and students utilize web technologies in their research.
 
