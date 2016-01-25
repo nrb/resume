@@ -8,4 +8,4 @@ resume: spellcheck
 	rst2pdf -s cv.pdfstyle resume.rst
 
 view: resume
-	open resume.pdf
+	./opener.sh resume.pdf
