@@ -31,9 +31,10 @@ Positions Held
 
     * Implemented Ansible playbooks and roles for the `openstack-ansible`_ project and `rpc-openstack`_ product.
     * Triaged and prioritized bugs and feature requests from both community members and internal support staff.
-    * Led project around upgrading `openstack-ansible`_/`rpc-openstack`_ code bases between Juno and Kilo releases.
+    * Led project for upgrading `openstack-ansible`_/`rpc-openstack`_ code bases between Juno to Kilo and Kilo to Liberty codebases.
     * Collaborated with community members and internal coworkers to write new feature specifications, online and in person.
     * Wrote initial developer documentation for `openstack-ansible`_.
+    * Implemented unit and integration testing for existing Python dynamic inventory production code (ongoing).
 
 :2014: Automation Engineer, Cox Media Group. Improving and maintaining tools for a large (40+) developer team.
 
