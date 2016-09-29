@@ -32,3 +32,10 @@ kramdown:
     coderay_bold_every: 10
     coderay_css: style
 
+
+defaults:
+    - scope:
+        path: ""
+        type: posts
+      values:
+        layout: post
