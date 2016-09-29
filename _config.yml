@@ -9,7 +9,7 @@ exclude:     [scripts, fabfile.py]
 
 future:      true
 lsi:         false
-highlighter: pygments
+highlighter: rouge
 markdown:    kramdown
 permalink:   date
 
