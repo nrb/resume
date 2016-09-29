@@ -11,7 +11,7 @@ future:      true
 lsi:         false
 highlighter: rouge
 markdown:    kramdown
-permalink:   date
+permalink:   /blog/:title
 
 
 rdiscount:
