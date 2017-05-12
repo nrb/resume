@@ -1,451 +1,209 @@
 %PDF-1.4
 %“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
-% 'BasicFonts': class PDFDictionary 
 1 0 obj
-% The standard fonts dictionary
-<< /F1 2 0 R
- /F2 3 0 R >>
+<<
+/F1 2 0 R /F2 3 0 R
+>>
 endobj
-% 'F1': class PDFType1Font 
 2 0 obj
-% Font Helvetica
-<< /BaseFont /Helvetica
- /Encoding /WinAnsiEncoding
- /Name /F1
- /Subtype /Type1
- /Type /Font >>
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
 endobj
-% 'F2': class PDFType1Font 
 3 0 obj
-% Font Helvetica-Bold
-<< /BaseFont /Helvetica-Bold
- /Encoding /WinAnsiEncoding
- /Name /F2
- /Subtype /Type1
- /Type /Font >>
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
 endobj
-% 'Annot.NUMBER1': class PDFDictionary 
 4 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (mailto:nolan@nbrubaker.com) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 153.7323
- 689.7736
- 255.0323
- 701.7736 ]
- /Subtype /Link
- /Type /Annot >>
+<<
+/A <<
+/S /URI /Type /Action /URI (mailto:nolan@nbrubaker.com)
+>> /Border [ 0 0 0 ] /Rect [ 153.7323 719.0236 255.0323 731.0236 ] /Subtype /Link /Type /Annot
+>>
 endobj
-% 'Annot.NUMBER2': class PDFDictionary 
 5 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (https://github.com/nrb) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 153.7323
- 674.7736
- 526.5827
- 686.7736 ]
- /Subtype /Link
- /Type /Annot >>
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/nrb)
+>> /Border [ 0 0 0 ] /Rect [ 153.7323 704.7736 249.8923 716.7736 ] /Subtype /Link /Type /Annot
+>>
 endobj
-% 'Annot.NUMBER3': class PDFDictionary 
 6 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (https://github.com/cartwheelweb/packaginator) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 75.60228
- 422.7736
- 138.4023
- 434.7736 ]
- /Subtype /Link
- /Type /Annot >>
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/openstack/openstack-ansible)
+>> /Border [ 0 0 0 ] /Rect [ 411.0176 308.0236 491.6076 320.0236 ] /Subtype /Link /Type /Annot
+>>
 endobj
-% 'Annot.NUMBER4': class PDFDictionary 
 7 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://djangopackages.com/) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 302.0925
- 422.7736
- 386.5586
- 434.7736 ]
- /Subtype /Link
- /Type /Annot >>
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/rcbops/rpc-openstack)
+>> /Border [ 0 0 0 ] /Rect [ 196.1923 296.0236 258.9923 308.0236 ] /Subtype /Link /Type /Annot
+>>
 endobj
-% 'Annot.NUMBER5': class PDFDictionary 
 8 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (https://github.com/tstone/django-uploadify) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 57.84228
- 395.7736
- 138.4023
- 407.7736 ]
- /Subtype /Link
- /Type /Annot >>
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/openstack/openstack-ansible)
+>> /Border [ 0 0 0 ] /Rect [ 314.5559 248.0236 395.1459 260.0236 ] /Subtype /Link /Type /Annot
+>>
 endobj
-% 'Annot.NUMBER6': class PDFDictionary 
 9 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (https://github.com/tstone/django-uploadify) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 226.6304
- 395.7736
- 300.0004
- 407.7736 ]
- /Subtype /Link
- /Type /Annot >>
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/rcbops/rpc-openstack)
+>> /Border [ 0 0 0 ] /Rect [ 397.9259 248.0236 460.7259 260.0236 ] /Subtype /Link /Type /Annot
+>>
 endobj
-% 'Annot.NUMBER7': class PDFDictionary 
 10 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://www.uploadify.com) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 484.9027
- 395.7736
- 525.7036
- 407.7736 ]
- /Subtype /Link
- /Type /Annot >>
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/openstack/openstack-ansible)
+>> /Border [ 0 0 0 ] /Rect [ 361.2523 188.0236 441.8423 200.0236 ] /Subtype /Link /Type /Annot
+>>
 endobj
-% 'Annot.NUMBER8': class PDFDictionary 
 11 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://www.sixfeetup.com) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 230.3078
- 263.7736
- 307.3861
- 275.7736 ]
- /Subtype /Link
- /Type /Annot >>
+<<
+/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R ] /Contents 32 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 31 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
 endobj
-% 'Page1': class PDFPage 
 12 0 obj
-% Page dictionary
-<< /Annots [ 4 0 R
- 5 0 R
- 6 0 R
- 7 0 R
- 8 0 R
- 9 0 R
- 10 0 R
- 11 0 R ]
- /Contents 33 0 R
- /MediaBox [ 0
- 0
- 595.2756
- 841.8898 ]
- /Parent 32 0 R
- /Resources << /Font 1 0 R
- /ProcSet [ /PDF
- /Text
- /ImageB
- /ImageC
- /ImageI ] >>
- /Rotate 0
- /Trans <<  >>
- /Type /Page >>
+<<
+/A <<
+/S /URI /Type /Action /URI (http://www.sixfeetup.com)
+>> /Border [ 0 0 0 ] /Rect [ 230.3078 555.0236 307.3861 567.0236 ] /Subtype /Link /Type /Annot
+>>
 endobj
-% 'Annot.NUMBER9': class PDFDictionary 
 13 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://eldarion.com) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 439.0046
- 753.7736
- 475.6846
- 765.7736 ]
- /Subtype /Link
- /Type /Annot >>
+<<
+/A <<
+/S /URI /Type /Action /URI (http://eldarion.com)
+>> /Border [ 0 0 0 ] /Rect [ 440.1166 420.0236 476.7966 432.0236 ] /Subtype /Link /Type /Annot
+>>
 endobj
-% 'Annot.NUMBER10': class PDFDictionary 
 14 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://www.redpost.com) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 481.9586
- 753.7736
- 523.8027
- 765.7736 ]
- /Subtype /Link
- /Type /Annot >>
+<<
+/A <<
+/S /URI /Type /Action /URI (http://www.redpost.com)
+>> /Border [ 0 0 0 ] /Rect [ 482.5146 420.0236 523.8027 432.0236 ] /Subtype /Link /Type /Annot
+>>
 endobj
-% 'Annot.NUMBER11': class PDFDictionary 
 15 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://www.carbonblack.com/) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 153.7323
- 741.7736
- 213.7523
- 753.7736 ]
- /Subtype /Link
- /Type /Annot >>
+<<
+/A <<
+/S /URI /Type /Action /URI (http://www.carbonblack.com/)
+>> /Border [ 0 0 0 ] /Rect [ 153.7323 408.0236 213.7523 420.0236 ] /Subtype /Link /Type /Annot
+>>
 endobj
-% 'Annot.NUMBER12': class PDFDictionary 
 16 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://crc.nd.edu) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 264.2444
- 612.7736
- 405.8965
- 624.7736 ]
- /Subtype /Link
- /Type /Annot >>
+<<
+/A <<
+/S /URI /Type /Action /URI (http://crc.nd.edu)
+>> /Border [ 0 0 0 ] /Rect [ 264.2444 327.0236 405.8965 339.0236 ] /Subtype /Link /Type /Annot
+>>
 endobj
-% 'Annot.NUMBER13': class PDFDictionary 
 17 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://flask.pocoo.org) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 209.5536
- 555.7736
- 233.4436
- 567.7736 ]
- /Subtype /Link
- /Type /Annot >>
+<<
+/A <<
+/S /URI /Type /Action /URI (http://flask.pocoo.org)
+>> /Border [ 0 0 0 ] /Rect [ 209.5536 282.0236 233.4436 294.0236 ] /Subtype /Link /Type /Annot
+>>
 endobj
-% 'Annot.NUMBER14': class PDFDictionary 
 18 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://djangoproject.com) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 310.9961
- 525.7736
- 345.6289
- 537.7736 ]
- /Subtype /Link
- /Type /Annot >>
+<<
+/A <<
+/S /URI /Type /Action /URI (http://djangoproject.com)
+>> /Border [ 0 0 0 ] /Rect [ 310.9961 252.0236 342.6761 264.0236 ] /Subtype /Link /Type /Annot
+>>
 endobj
-% 'Annot.NUMBER15': class PDFDictionary 
 19 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://www.celeryproject.org) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 365.2616
- 525.7736
- 397.1044
- 537.7736 ]
- /Subtype /Link
- /Type /Annot >>
+<<
+/A <<
+/S /URI /Type /Action /URI (http://www.celeryproject.org)
+>> /Border [ 0 0 0 ] /Rect [ 365.2616 252.0236 394.1516 264.0236 ] /Subtype /Link /Type /Annot
+>>
 endobj
-% 'Annot.NUMBER16': class PDFDictionary 
 20 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://www.youtube.com/watch?v=WQxkCQndoZc) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 420.3772
- 441.7736
- 482.6357
- 453.7736 ]
- /Subtype /Link
- /Type /Annot >>
+<<
+/A <<
+/S /URI /Type /Action /URI (http://www.youtube.com/watch?v=WQxkCQndoZc)
+>> /Border [ 0 0 0 ] /Rect [ 420.3772 168.0236 479.8372 180.0236 ] /Subtype /Link /Type /Annot
+>>
 endobj
-% 'Annot.NUMBER17': class PDFDictionary 
 21 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://www.mapletronics.com) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 267.4187
- 339.7736
- 381.2575
- 351.7736 ]
- /Subtype /Link
- /Type /Annot >>
+<<
+/A <<
+/S /URI /Type /Action /URI (http://www.mapletronics.com)
+>> /Border [ 0 0 0 ] /Rect [ 267.4187 114.0236 381.2575 126.0236 ] /Subtype /Link /Type /Annot
+>>
 endobj
-% 'Annot.NUMBER18': class PDFDictionary 
 22 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://www.mapletronics.com) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 368.9126
- 222.7736
- 481.9176
- 234.7736 ]
- /Subtype /Link
- /Type /Annot >>
+<<
+/Annots [ 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R ] /Contents 33 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 31 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
 endobj
-% 'Page2': class PDFPage 
 23 0 obj
-% Page dictionary
-<< /Annots [ 13 0 R
- 14 0 R
- 15 0 R
- 16 0 R
- 17 0 R
- 18 0 R
- 19 0 R
- 20 0 R
- 21 0 R
- 22 0 R ]
- /Contents 34 0 R
- /MediaBox [ 0
- 0
- 595.2756
- 841.8898 ]
- /Parent 32 0 R
- /Resources << /Font 1 0 R
- /ProcSet [ /PDF
- /Text
- /ImageB
- /ImageC
- /ImageI ] >>
- /Rotate 0
- /Trans <<  >>
- /Type /Page >>
+<<
+/Outlines 25 0 R /PageLabels 34 0 R /PageMode /UseNone /Pages 31 0 R /Type /Catalog
+>>
 endobj
-% 'R24': class PDFCatalog 
 24 0 obj
-% Document Root
-<< /Outlines 26 0 R
- /PageLabels 35 0 R
- /PageMode /UseNone
- /Pages 32 0 R
- /Type /Catalog >>
+<<
+/Author () /CreationDate (D:20170512170909+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20170512170909+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Nolan Brubaker) /Trapped /False
+>>
 endobj
-% 'R25': class PDFInfo 
 25 0 obj
-<< /Author ()
- /CreationDate (D:20130409174540+05'00')
- /Creator (\(unspecified\))
- /Keywords ()
- /Producer (ReportLab PDF Library - www.reportlab.com)
- /Subject (\(unspecified\))
- /Title (Nolan Brubaker) >>
+<<
+/Count 5 /First 26 0 R /Last 30 0 R /Type /Outlines
+>>
 endobj
-% 'R26': class PDFOutlines 
 26 0 obj
-<< /Count 5
- /First 27 0 R
- /Last 31 0 R
- /Type /Outlines >>
+<<
+/Dest [ 11 0 R /XYZ 62.69291 689.0236 0 ] /Next 27 0 R /Parent 25 0 R /Title (Goal)
+>>
 endobj
-% 'Outline.0': class OutlineEntryObject 
 27 0 obj
-<< /Dest [ 12 0 R
- /XYZ
- 62.69291
- 659.0236
- 0 ]
- /Next 28 0 R
- /Parent 26 0 R
- /Title (Education) >>
+<<
+/Dest [ 11 0 R /XYZ 62.69291 638.0236 0 ] /Next 28 0 R /Parent 25 0 R /Prev 26 0 R /Title (Education)
+>>
 endobj
-% 'Outline.1': class OutlineEntryObject 
 28 0 obj
-<< /Dest [ 12 0 R
- /XYZ
- 62.69291
- 596.0236
- 0 ]
- /Next 29 0 R
- /Parent 26 0 R
- /Prev 27 0 R
- /Title (Technical Skills) >>
+<<
+/Dest [ 11 0 R /XYZ 62.69291 575.0236 0 ] /Next 29 0 R /Parent 25 0 R /Prev 27 0 R /Title (Technical Skills)
+>>
 endobj
-% 'Outline.2': class OutlineEntryObject 
 29 0 obj
-<< /Dest [ 12 0 R
- /XYZ
- 62.69291
- 467.0236
- 0 ]
- /Next 30 0 R
- /Parent 26 0 R
- /Prev 28 0 R
- /Title (Projects) >>
+<<
+/Dest [ 11 0 R /XYZ 62.69291 446.0236 0 ] /Next 30 0 R /Parent 25 0 R /Prev 28 0 R /Title (Presentations)
+>>
 endobj
-% 'Outline.3': class OutlineEntryObject 
 30 0 obj
-<< /Dest [ 12 0 R
- /XYZ
- 62.69291
- 368.0236
- 0 ]
- /Next 31 0 R
- /Parent 26 0 R
- /Prev 29 0 R
- /Title (Presentations) >>
+<<
+/Dest [ 11 0 R /XYZ 62.69291 386.0236 0 ] /Parent 25 0 R /Prev 29 0 R /Title (Positions Held)
+>>
 endobj
-% 'Outline.4': class OutlineEntryObject 
 31 0 obj
-<< /Dest [ 12 0 R
- /XYZ
- 62.69291
- 308.0236
- 0 ]
- /Parent 26 0 R
- /Prev 30 0 R
- /Title (Positions Held) >>
+<<
+/Count 2 /Kids [ 11 0 R 22 0 R ] /Type /Pages
+>>
 endobj
-% 'R32': class PDFPages 
 32 0 obj
-% page tree
-<< /Count 2
- /Kids [ 12 0 R
- 23 0 R ]
- /Type /Pages >>
-endobj
-% 'R33': class PDFStream 
-33 0 obj
-% page stream
-<< /Length 7591 >>
+<<
+/Length 6411
+>>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -455,14 +213,7 @@ BT 1 0 0 1 0 4 Tm 160.4849 0 Td 24 TL /F2 20 Tf 0 0 0 rg (Nolan Brubaker) Tj T* 
 Q
 Q
 q
-1 0 0 1 62.69291 711.0236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL 190.3499 0 Td (Programmer) Tj T* -190.3499 0 Td ET
-Q
-Q
-q
-1 0 0 1 62.69291 686.0236 cm
+1 0 0 1 62.69291 716.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -482,7 +233,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 671.0236 cm
+1 0 0 1 62.69291 701.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -504,29 +255,42 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 638.0236 cm
+1 0 0 1 62.69291 668.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Goal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 650.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Simplify developer's lives and increases their effectiveness.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 617.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Education) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 608.0236 cm
+1 0 0 1 62.69291 587.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.058314 Tw (Bachelor of Science in Informatics with concentration in Computer Science, December 2010. Indiana) Tj T* 0 Tw (University South Bend, South Bend, IN.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 575.0236 cm
+1 0 0 1 62.69291 554.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Technical Skills) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 563.0236 cm
+1 0 0 1 62.69291 542.0236 cm
 Q
 q
-1 0 0 1 62.69291 536.0236 cm
+1 0 0 1 62.69291 515.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -540,14 +304,14 @@ q
 1 0 0 1 91.03937 15 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (OS X, Linux, Windows \(client and servers\)) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (OS X, Linux) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 521.0236 cm
+1 0 0 1 62.69291 500.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -561,14 +325,14 @@ q
 1 0 0 1 91.03937 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Strong skills in Python, intermediate knowledge of Erlang, Ruby, JavaScript, SQL) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Strong skills in Python, intermediate knowledge of bash, Ansible) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 494.0236 cm
+1 0 0 1 62.69291 473.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -582,14 +346,14 @@ q
 1 0 0 1 91.03937 15 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (PostgreSQL, Microsoft SQL Server) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (PostgreSQL) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 479.0236 cm
+1 0 0 1 62.69291 458.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -603,70 +367,23 @@ q
 1 0 0 1 91.03937 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (SVN, git, Trac) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (git, Jira, GitHub, Gerrit) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 446.0236 cm
-q
-BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Projects) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 434.0236 cm
-Q
-q
-1 0 0 1 62.69291 407.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 15 cm
-q
-BT 1 0 0 1 0 2 Tm 6.90937 0 Td 12 TL /F2 10 Tf 0 0 .501961 rg (Packaginator) Tj 0 0 0 rg (:) Tj T* -6.90937 0 Td ET
-Q
-Q
-q
-1 0 0 1 91.03937 3 cm
-q
-BT 1 0 0 1 0 14 Tm 1.658039 Tw 12 TL /F1 10 Tf 0 0 0 rg (Helped reorganize code for the ) Tj 0 0 .501961 rg (Django Packages ) Tj 0 0 0 rg (framework during PyCon 2011) Tj T* 0 Tw (Sprints.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 380.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 15 cm
-q
-BT 1 0 0 1 0 2 Tm -10.85063 0 Td 12 TL /F2 10 Tf 0 0 .501961 rg (django-uploadify) Tj 0 0 0 rg (:) Tj T* 10.85063 0 Td ET
-Q
-Q
-q
-1 0 0 1 91.03937 3 cm
-q
-BT 1 0 0 1 0 14 Tm .879039 Tw 12 TL /F1 10 Tf 0 0 0 rg (Collaborator on ) Tj 0 0 .501961 rg (django-uploadify) Tj 0 0 0 rg (, a re-usable Django app that wraps the ) Tj 0 0 .501961 rg (Uploadify) Tj T* 0 Tw 0 0 0 rg (multiple file uploader.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 347.0236 cm
+1 0 0 1 62.69291 425.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Presentations) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 335.0236 cm
+1 0 0 1 62.69291 413.0236 cm
 Q
 q
-1 0 0 1 62.69291 320.0236 cm
+1 0 0 1 62.69291 398.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -687,39 +404,63 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 287.0236 cm
+1 0 0 1 62.69291 365.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Positions Held) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 275.0236 cm
+1 0 0 1 62.69291 353.0236 cm
 Q
 q
-1 0 0 1 62.69291 92.02362 cm
+1 0 0 1 62.69291 158.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 171 cm
+1 0 0 1 6 183 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 8.01937 0 Td (2012-present:) Tj T* -8.01937 0 Td ET
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 8.01937 0 Td (2014-present:) Tj T* -8.01937 0 Td ET
 Q
 Q
 q
-1 0 0 1 91.03937 159 cm
+1 0 0 1 91.03937 171 cm
 q
-BT 1 0 0 1 0 14 Tm 1.052763 Tw 12 TL /F1 10 Tf 0 0 0 rg (Web Developer, ) Tj 0 0 .501961 rg (Six Feet Up, Inc.) Tj 0 0 0 rg (. Implementing and maintaining client Plone and) Tj T* 0 Tw (Pyramid web sites and web apps.) Tj T* ET
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 3.635599 Tw (Software Developer, Rackspace, Inc. Writing Ansible playbooks and roles for) Tj T* 0 Tw (installing OpenStack.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 91.03937 153 cm
+1 0 0 1 91.03937 165 cm
 Q
 q
-1 0 0 1 91.03937 153 cm
+1 0 0 1 91.03937 165 cm
 Q
 q
-1 0 0 1 91.03937 129 cm
+1 0 0 1 91.03937 141 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 2.185049 Tw 12 TL /F1 10 Tf 0 0 0 rg (Implemented Ansible playbooks and roles for the ) Tj 0 0 .501961 rg (openstack-ansible) Tj 0 0 0 rg ( project) Tj T* 0 Tw (and ) Tj 0 0 .501961 rg (rpc-openstack) Tj 0 0 0 rg ( product.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 135 cm
+Q
+q
+1 0 0 1 91.03937 111 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -733,31 +474,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.277822 Tw (Implemented PubSubHubBub 'hub' and 'client' servers in Pyramid and Plone) Tj T* 0 Tw (for syndicating content between various intranets.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 91.03937 123 cm
-Q
-q
-1 0 0 1 91.03937 111 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Wrote and designed a Pyramid- and SQLAlchemy-based OpenID server) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 3.918933 Tw (Triaged and prioritized bugs and feature requests from both community) Tj T* 0 Tw (members and internal support staff.) Tj T* ET
 Q
 Q
 q
@@ -780,8 +497,335 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
+BT 1 0 0 1 0 14 Tm 5.968399 Tw 12 TL /F1 10 Tf 0 0 0 rg (Led project for upgrading ) Tj 0 0 .501961 rg (openstack-ansible) Tj 0 0 0 rg (/) Tj 0 0 .501961 rg (rpc-openstack) Tj 0 0 0 rg ( code bases) Tj T* 0 Tw (between Juno to Kilo and Kilo to Liberty codebases.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 75 cm
+Q
+q
+1 0 0 1 91.03937 51 cm
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.602549 Tw (Implemented and maintained Pyramid package templates to make starting) Tj T* 0 Tw (projects more efficient.) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.947822 Tw (Collaborated with community members and internal coworkers to write new) Tj T* 0 Tw (feature specifications, online and in person.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 45 cm
+Q
+q
+1 0 0 1 91.03937 33 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Wrote initial developer documentation for ) Tj 0 0 .501961 rg (openstack-ansible) Tj 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 27 cm
+Q
+q
+1 0 0 1 91.03937 3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .397822 Tw (Implemented unit and integration testing for existing Python dynamic inventory) Tj T* 0 Tw (production code \(ongoing\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+33 0 obj
+<<
+/Length 10696
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 678.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 47.46937 0 Td (2014:) Tj T* -47.46937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .092763 Tw (Automation Engineer, Cox Media Group. Improving and maintaining tools for a large) Tj T* 0 Tw (\(40+\) developer team.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 57 cm
+Q
+q
+1 0 0 1 91.03937 57 cm
+Q
+q
+1 0 0 1 91.03937 33 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.253377 Tw (Implemented self-service jobs in Hudson/Jenkins for developers to start git) Tj T* 0 Tw (repositories and caching PyPI packages.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 27 cm
+Q
+q
+1 0 0 1 91.03937 3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 6.005049 Tw (Maintained custom bash and Python tools for wrapping applications,) Tj T* 0 Tw (simplifying usage.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 567.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 99 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 21.89937 0 Td (2013-2014:) Tj T* -21.89937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 87 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.882039 Tw (Software Developer, Cox Media Group. Improving and maintaining a large scale) Tj T* 0 Tw (Django CMS \(10 million page views per day\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 81 cm
+Q
+q
+1 0 0 1 91.03937 81 cm
+Q
+q
+1 0 0 1 91.03937 69 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Implemented retargeting pixel system to help serve unique ads to site visitors) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 63 cm
+Q
+q
+1 0 0 1 91.03937 39 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .028933 Tw (Added methods for advertisement traffickers to manage Google Doubleclick for) Tj T* 0 Tw (Publishers ads from within our custom CMS.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 33 cm
+Q
+q
+1 0 0 1 91.03937 21 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Wrote custom tools for managing our development environment) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 15 cm
+Q
+q
+1 0 0 1 91.03937 3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Documented existing Google ads integration library) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 432.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 123 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 21.89937 0 Td (2012-2013:) Tj T* -21.89937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 111 cm
+q
+BT 1 0 0 1 0 14 Tm 1.052763 Tw 12 TL /F1 10 Tf 0 0 0 rg (Web Developer, ) Tj 0 0 .501961 rg (Six Feet Up, Inc.) Tj 0 0 0 rg (. Implementing and maintaining client Plone and) Tj T* 0 Tw (Pyramid web sites and apps.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 105 cm
+Q
+q
+1 0 0 1 91.03937 105 cm
+Q
+q
+1 0 0 1 91.03937 81 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.277822 Tw (Implemented PubSubHubBub 'hub' and 'client' servers in Pyramid and Plone) Tj T* 0 Tw (for syndicating content between various intranets.) Tj T* ET
 Q
 Q
 q
@@ -805,7 +849,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Refined Solr-based searching on client sites.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Wrote and designed a Pyramid- and SQLAlchemy-based OpenID server) Tj T* ET
 Q
 Q
 q
@@ -829,7 +873,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .027822 Tw (Provided technical estimates and guidance to project managers and customers) Tj T* 0 Tw (for project implementations.) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.602549 Tw (Implemented and maintained Pyramid package templates to make starting) Tj T* 0 Tw (projects more efficient.) Tj T* ET
 Q
 Q
 q
@@ -853,7 +897,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 3.54671 Tw (Responsible for releasing client sites to testing, staging, and, production) Tj T* 0 Tw (environments.) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .027822 Tw (Provided technical estimates and guidance to project managers and customers) Tj T* 0 Tw (for project implementations.) Tj T* ET
 Q
 Q
 q
@@ -865,40 +909,31 @@ Q
 q
 Q
 Q
- 
-endstream
-endobj
-% 'R34': class PDFStream 
-34 0 obj
-% page stream
-<< /Length 8854 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 624.0236 cm
+1 0 0 1 62.69291 339.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 129 cm
+1 0 0 1 6 81 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 21.89937 0 Td (2011-2012:) Tj T* -21.89937 0 Td ET
 Q
 Q
 q
-1 0 0 1 91.03937 117 cm
+1 0 0 1 91.03937 69 cm
 q
-BT 1 0 0 1 0 14 Tm .714039 Tw 12 TL /F1 10 Tf 0 0 0 rg (Freelancer, specializing in Python and Django. Clients include: ) Tj 0 0 .501961 rg (Eldarion) Tj 0 0 0 rg (, ) Tj 0 0 .501961 rg (Red Post) Tj 0 0 0 rg (,) Tj T* 0 Tw 0 0 .501961 rg (Carbon Black) Tj T* ET
+BT 1 0 0 1 0 14 Tm .158039 Tw 12 TL /F1 10 Tf 0 0 0 rg (Freelancer, specializing in Python and Django. Clients included: ) Tj 0 0 .501961 rg (Eldarion) Tj 0 0 0 rg (, ) Tj 0 0 .501961 rg (Red Post) Tj 0 0 0 rg (,) Tj T* 0 Tw 0 0 .501961 rg (Carbon Black) Tj T* ET
 Q
 Q
 q
-1 0 0 1 91.03937 111 cm
+1 0 0 1 91.03937 63 cm
 Q
 q
-1 0 0 1 91.03937 111 cm
+1 0 0 1 91.03937 63 cm
 Q
 q
-1 0 0 1 91.03937 87 cm
+1 0 0 1 91.03937 39 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -919,58 +954,10 @@ q
 Q
 Q
 q
-1 0 0 1 91.03937 81 cm
-Q
-q
-1 0 0 1 91.03937 69 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Extended a Rails- and MongoDB-based money transfer kiosk.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 91.03937 63 cm
-Q
-q
-1 0 0 1 91.03937 51 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Contributed re-usable Django apps for the Pinax project.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 91.03937 45 cm
-Q
-q
 1 0 0 1 91.03937 33 cm
+Q
+q
+1 0 0 1 91.03937 21 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -984,21 +971,21 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Implemented Django apps for communicating with GIS Java server) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Extended a Rails- and MongoDB-based money transfer kiosk application.) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 91.03937 27 cm
+1 0 0 1 91.03937 15 cm
 Q
 q
 1 0 0 1 91.03937 3 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 9 cm
+1 0 0 1 6 -3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
@@ -1008,7 +995,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.234581 Tw (Began an implementation of a DoD vulnerability report based on the Carbon) Tj T* 0 Tw (Black security monitoring software in Flask.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Contributed re-usable Django apps to the Pinax project.) Tj T* ET
 Q
 Q
 q
@@ -1021,30 +1008,30 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 351.0236 cm
+1 0 0 1 62.69291 126.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 261 cm
+1 0 0 1 6 201 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 21.89937 0 Td (2010-2011:) Tj T* -21.89937 0 Td ET
 Q
 Q
 q
-1 0 0 1 91.03937 237 cm
+1 0 0 1 91.03937 189 cm
 q
-BT 1 0 0 1 0 26 Tm .164039 Tw 12 TL /F1 10 Tf 0 0 0 rg (Research Programmer - ) Tj 0 0 .501961 rg (Center for Research Computing) Tj 0 0 0 rg (, University of Notre Dame.) Tj T* 0 Tw 3.492039 Tw (Helped faculty and students utilize web technologies in their research. Some) Tj T* 0 Tw (highlights:) Tj T* ET
+BT 1 0 0 1 0 14 Tm .164039 Tw 12 TL /F1 10 Tf 0 0 0 rg (Research Programmer - ) Tj 0 0 .501961 rg (Center for Research Computing) Tj 0 0 0 rg (, University of Notre Dame.) Tj T* 0 Tw (Helped faculty and students utilize web technologies in their research.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 91.03937 231 cm
+1 0 0 1 91.03937 183 cm
 Q
 q
-1 0 0 1 91.03937 231 cm
+1 0 0 1 91.03937 183 cm
 Q
 q
-1 0 0 1 91.03937 195 cm
+1 0 0 1 91.03937 147 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1064,10 +1051,10 @@ q
 Q
 Q
 q
-1 0 0 1 91.03937 189 cm
+1 0 0 1 91.03937 141 cm
 Q
 q
-1 0 0 1 91.03937 153 cm
+1 0 0 1 91.03937 105 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1080,17 +1067,17 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 26 Tm .172763 Tw 12 TL /F1 10 Tf 0 0 0 rg (Began a framework based on ) Tj 0 0 .501961 rg (Django ) Tj 0 0 0 rg (and ) Tj 0 0 .501961 rg (Celery ) Tj 0 0 0 rg (for launching, managing, and) Tj T* 0 Tw 1.891854 Tw (reporting on jobs based on open source command line tools for monitoring) Tj T* 0 Tw (environmental change. Originally prototyped in Erlang) Tj T* ET
+BT 1 0 0 1 0 26 Tm .172763 Tw 12 TL /F1 10 Tf 0 0 0 rg (Began a framework based on ) Tj 0 0 .501961 rg (Django) Tj 0 0 0 rg ( and ) Tj 0 0 .501961 rg (Celery) Tj 0 0 0 rg ( for launching, managing, and) Tj T* 0 Tw 1.891854 Tw (reporting on jobs based on open source command line tools for monitoring) Tj T* 0 Tw (environmental change. Originally prototyped in Erlang) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 91.03937 147 cm
+1 0 0 1 91.03937 99 cm
 Q
 q
-1 0 0 1 91.03937 123 cm
+1 0 0 1 91.03937 75 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1111,10 +1098,10 @@ q
 Q
 Q
 q
-1 0 0 1 91.03937 117 cm
+1 0 0 1 91.03937 69 cm
 Q
 q
-1 0 0 1 91.03937 81 cm
+1 0 0 1 91.03937 33 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1127,55 +1114,7 @@ Q
 q
 1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 26 Tm 1.318366 Tw 12 TL /F1 10 Tf 0 0 0 rg (Created web crawler that searched for words within poems on the web, and) Tj T* 0 Tw .018492 Tw (provided information on the pages it found for use with ) Tj 0 0 .501961 rg (visualizations ) Tj 0 0 0 rg (by an arts) Tj T* 0 Tw (professor.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 91.03937 75 cm
-Q
-q
-1 0 0 1 91.03937 51 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 9 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 3.992549 Tw (Wrote a JavaScript prototype implementation of interactive subtitles and) Tj T* 0 Tw (elements associated with an HTML5 video.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 91.03937 45 cm
-Q
-q
-1 0 0 1 91.03937 33 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Implemented project workflows based on Subversion and Trac.) Tj T* ET
+BT 1 0 0 1 0 26 Tm 1.318366 Tw 12 TL /F1 10 Tf 0 0 0 rg (Created web crawler that searched for words within poems on the web, and) Tj T* 0 Tw .018492 Tw (provided information on the pages it found for use with ) Tj 0 0 .501961 rg (visualizations) Tj 0 0 0 rg ( by an arts) Tj T* 0 Tw (professor.) Tj T* ET
 Q
 Q
 q
@@ -1212,30 +1151,30 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 234.0236 cm
+1 0 0 1 62.69291 81.02362 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 105 cm
+1 0 0 1 6 33 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 21.89937 0 Td (2006-2010:) Tj T* -21.89937 0 Td ET
 Q
 Q
 q
-1 0 0 1 91.03937 81 cm
+1 0 0 1 91.03937 21 cm
 q
-BT 1 0 0 1 0 26 Tm 2.148799 Tw 12 TL /F1 10 Tf 0 0 0 rg (Network Administrator - ) Tj 0 0 .501961 rg (MapleTronics Computers) Tj 0 0 0 rg (. Managed internal network, as) Tj T* 0 Tw .179199 Tw (well as installing and managing networks, servers, and software for clients. Some of) Tj T* 0 Tw (my main duties included:) Tj T* ET
+BT 1 0 0 1 0 14 Tm 2.148799 Tw 12 TL /F1 10 Tf 0 0 0 rg (Network Administrator - ) Tj 0 0 .501961 rg (MapleTronics Computers) Tj 0 0 0 rg (. Managed internal network, as) Tj T* 0 Tw (well as installing and managing networks, servers, and software for clients.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 91.03937 75 cm
+1 0 0 1 91.03937 15 cm
 Q
 q
-1 0 0 1 91.03937 75 cm
+1 0 0 1 91.03937 15 cm
 Q
 q
-1 0 0 1 91.03937 63 cm
+1 0 0 1 91.03937 3 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1256,75 +1195,7 @@ q
 Q
 Q
 q
-1 0 0 1 91.03937 57 cm
-Q
-q
-1 0 0 1 91.03937 33 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 9 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.187549 Tw (Maintaining over 1,000 Windows computers, both workstations and servers) Tj T* 0 Tw (using Kaseya management software and custom scripts.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 91.03937 27 cm
-Q
-q
 1 0 0 1 91.03937 3 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 9 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 3.021299 Tw (Integrated reporting across several different systems using Microsoft SQL) Tj T* 0 Tw (Server Reporting Services and T-SQL.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 91.03937 3 cm
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 207.0236 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 15 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 21.89937 0 Td (2003-2006:) Tj T* -21.89937 0 Td ET
-Q
-Q
-q
-1 0 0 1 91.03937 3 cm
-q
-BT 1 0 0 1 0 14 Tm 1.315049 Tw 12 TL /F1 10 Tf 0 0 0 rg (HelpDesk Representative & Retail Salesman - ) Tj 0 0 .501961 rg (MapleTronics Computers) Tj 0 0 0 rg (. Assisted) Tj T* 0 Tw (customers with technology questions and purchasing decision) Tj T* ET
-Q
 Q
 q
 Q
@@ -1332,74 +1203,70 @@ Q
  
 endstream
 endobj
-% 'R35': class PDFPageLabels 
+34 0 obj
+<<
+/Nums [ 0 35 0 R 1 36 0 R ]
+>>
+endobj
 35 0 obj
-% Document Root
-<< /Nums [ 0
- 36 0 R
- 1
- 37 0 R ] >>
+<<
+/S /D /St 1
+>>
 endobj
-% 'R36': class PDFPageLabel 
 36 0 obj
-% None
-<< /S /D
- /St 1 >>
-endobj
-% 'R37': class PDFPageLabel 
-37 0 obj
-% None
-<< /S /D
- /St 2 >>
+<<
+/S /D /St 2
+>>
 endobj
 xref
-0 38
-0000000000 65535 f
-0000000113 00000 n
-0000000221 00000 n
-0000000386 00000 n
-0000000573 00000 n
-0000000817 00000 n
-0000001057 00000 n
-0000001319 00000 n
-0000001563 00000 n
-0000001823 00000 n
-0000002083 00000 n
-0000002326 00000 n
-0000002555 00000 n
-0000002927 00000 n
-0000003166 00000 n
-0000003408 00000 n
-0000003655 00000 n
-0000003892 00000 n
-0000004134 00000 n
-0000004378 00000 n
-0000004626 00000 n
-0000004888 00000 n
-0000005135 00000 n
-0000005367 00000 n
-0000005750 00000 n
-0000005909 00000 n
-0000006171 00000 n
-0000006296 00000 n
-0000006466 00000 n
-0000006658 00000 n
-0000006842 00000 n
-0000007031 00000 n
-0000007190 00000 n
-0000007307 00000 n
-0000014997 00000 n
-0000023954 00000 n
-0000024060 00000 n
-0000024137 00000 n
+0 37
+0000000000 65535 f 
+0000000073 00000 n 
+0000000114 00000 n 
+0000000221 00000 n 
+0000000333 00000 n 
+0000000511 00000 n 
+0000000685 00000 n 
+0000000883 00000 n 
+0000001074 00000 n 
+0000001272 00000 n 
+0000001463 00000 n 
+0000001662 00000 n 
+0000001923 00000 n 
+0000002100 00000 n 
+0000002272 00000 n 
+0000002447 00000 n 
+0000002627 00000 n 
+0000002797 00000 n 
+0000002972 00000 n 
+0000003149 00000 n 
+0000003330 00000 n 
+0000003525 00000 n 
+0000003705 00000 n 
+0000003993 00000 n 
+0000004099 00000 n 
+0000004371 00000 n 
+0000004445 00000 n 
+0000004551 00000 n 
+0000004675 00000 n 
+0000004806 00000 n 
+0000004934 00000 n 
+0000005050 00000 n 
+0000005118 00000 n 
+0000011581 00000 n 
+0000022330 00000 n 
+0000022380 00000 n 
+0000022414 00000 n 
 trailer
-<< /ID 
- % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(\334\210i\276\221-\256>\262%\225\000\200\302\343U) (\334\210i\276\221-\256>\262%\225\000\200\302\343U)] 
+<<
+/ID 
+[<eefa60f5a1f26837bbdb16bc3141bc86><eefa60f5a1f26837bbdb16bc3141bc86>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
- /Info 25 0 R
- /Root 24 0 R
- /Size 38 >>
+/Info 24 0 R
+/Root 23 0 R
+/Size 37
+>>
 startxref
-24184
+22448
 %%EOF
