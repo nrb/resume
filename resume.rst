@@ -26,15 +26,19 @@ Presentations
 Positions Held
 ==============
 
+:2017-present: System Engineer, `Heptio`_ Developing tools for managing Kubernetes clusters
 
-:2014-present: Software Developer, Rackspace, Inc. Writing Ansible playbooks and roles for installing OpenStack.
+    * Implemented end-to-end testing for `Ark`_ on live Amazon Web Services clusters
+    * Designed Ark conflict handler plugin system
+
+:2014-2017: Software Developer, Rackspace, Inc. Writing Ansible playbooks and roles for installing OpenStack.
 
     * Implemented Ansible playbooks and roles for the `openstack-ansible`_ project and `rpc-openstack`_ product.
     * Triaged and prioritized bugs and feature requests from both community members and internal support staff.
     * Led project for upgrading `openstack-ansible`_/`rpc-openstack`_ code bases between Juno to Kilo and Kilo to Liberty codebases.
     * Collaborated with community members and internal coworkers to write new feature specifications, online and in person.
     * Wrote initial developer documentation for `openstack-ansible`_.
-    * Implemented unit and integration testing for existing Python dynamic inventory production code (ongoing).
+    * Implemented unit and integration testing for existing Python dynamic inventory production code
 
 :2014: Automation Engineer, Cox Media Group. Improving and maintaining tools for a large (40+) developer team.
 
@@ -88,3 +92,5 @@ Positions Held
 .. _Celery: http://www.celeryproject.org
 .. _openstack-ansible: https://github.com/openstack/openstack-ansible
 .. _rpc-openstack: https://github.com/rcbops/rpc-openstack
+.. _Heptio: https://www.heptio.com
+.. _Ark: https://github.com/heptio/ark
