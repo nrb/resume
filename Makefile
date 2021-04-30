@@ -1,5 +1,5 @@
 install:
-	pip install -U rst2pdf
+	pip3 install -U rst2pdf
 
 spellcheck:
 	aspell --add-extra-dicts=./aspell.en.pws -c resume.rst
