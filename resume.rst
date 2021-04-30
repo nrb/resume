@@ -12,24 +12,29 @@ Education
 =========
 Bachelor of Science in Informatics with concentration in Computer Science, December 2010. Indiana University South Bend, South Bend, IN.
 
-Technical Skills
-================
-:Operating Systems: OS X, Linux
-:Languages: Strong skills in Python, intermediate knowledge of bash, Ansible
-:Database Systems: PostgreSQL
-:Project Tools: git, Jira, GitHub, Gerrit
-
 Presentations
 =============
-:ZODB: PyOhio 2012, presented on the Zope Object Database for Python applications.
+:`ZODB`_: PyOhio 2012, presented on the Zope Object Database for Python applications.
+:`CSI Volume Snapshots`_: KubeCon NA 2019, presented Container Storage Interface volume snapshot support and its uses
+:`DevOps and Docker Live Show`_: Discussing Kubernetes backup and recovery on Bret Fisher's weekly show
+:`TBS`_: Discussing Kubernetes backup and recovery on the Crossplane-sponsored TBS show
 
 Positions Held
 ==============
 
-:2017-present: System Engineer, `Heptio`_ Developing tools for managing Kubernetes clusters
+:2020-present: Senior Member of Technical Staff, VMware. Technical lead for Velero
 
-    * Implemented end-to-end testing for `Ark`_ on live Amazon Web Services clusters
-    * Designed Ark conflict handler plugin system
+    * Led development team's delivery of milestones
+    * Set technical design and vision for evolving Velero into a more general use tool
+    * Coordinated with other teams and business units to identify opportunities for shared outcomes
+    * Mentored developers on the team via code/design review and direct one-on-one meetings
+    * Collaborated with community members to deliver new designs and code in Velero and plugins
+
+:2017-2020: System Engineer, `Heptio`_. Developing tools for managing Kubernetes clusters
+
+    * Implemented end-to-end testing for `Velero`_ on live Amazon Web Services clusters
+    * Designed Velero conflict handler plugin system
+    * Integrated Container Storage Interface (CSI) support for Velero (formerly Ark) to enable generic volume support.
 
 :2014-2017: Software Developer, Rackspace, Inc. Writing Ansible playbooks and roles for installing OpenStack.
 
@@ -78,8 +83,6 @@ Positions Held
 
   * Automating processes through custom VBScript and PowerShell scripts.
 
-
-
 .. _`Six Feet Up, Inc.`: http://www.sixfeetup.com
 .. _`Center for Research Computing`: http://crc.nd.edu
 .. _`MapleTronics Computers`: http://www.mapletronics.com
@@ -93,4 +96,8 @@ Positions Held
 .. _openstack-ansible: https://github.com/openstack/openstack-ansible
 .. _rpc-openstack: https://github.com/rcbops/rpc-openstack
 .. _Heptio: https://www.heptio.com
-.. _Ark: https://github.com/heptio/ark
+.. _Velero: https://github.com/vmware-tanzu/velero
+.. _`ZODB`: https://www.youtube.com/watch?v=vnZ6dj_1c14
+.. _`CSI Volume Snapshots`: https://www.youtube.com/watch?v=CbA40krYZf0&t=2s
+.. _`DevOps and Docker Live Show`: https://www.youtube.com/watch?v=pRgap975b5E
+.. _`TBS`: https://www.youtube.com/watch?v=eV_2QoMRqGw
