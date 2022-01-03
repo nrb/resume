@@ -22,7 +22,13 @@ Presentations
 Positions Held
 ==============
 
-:2020-present: Senior Member of Technical Staff, VMware. Technical lead for Velero
+:2021-present: Senior Member of Technical Staff, VMware. Developer and maintainer for Tanzu Community Edition
+
+    * Integrated Sonobuoy into Tanzu Community Edition deliverables for ease of use
+    * Coordinated with broader Tanzu team to improve usability and iteration times when developing Tanzu plugins
+    * Coached internal and external contributors to Tanzu Community Edition
+
+:2020-2021: Senior Member of Technical Staff, VMware. Technical lead for Velero
 
     * Led development team's delivery of milestones
     * Set technical design and vision for evolving Velero into a more general use tool
