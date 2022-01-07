@@ -22,7 +22,7 @@ Presentations
 Positions Held
 ==============
 
-:2021-present: Senior Member of Technical Staff, VMware. Developer and maintainer for `Tanzu Community Edition`_
+:2021-present: Senior Member of Technical Staff, VMware. Developing and maintaining `Tanzu Community Edition`_
 
     * Coached internal and external contributors to `Tanzu Community Edition`_
     * Coordinated with broader Tanzu team to improve usability and iteration times when developing Tanzu plugins
