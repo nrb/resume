@@ -28,19 +28,19 @@ Positions Held
     * Coordinated with broader Tanzu team to improve usability and iteration times when developing Tanzu plugins
     * Coached internal and external contributors to Tanzu Community Edition
 
-:2020-2021: Senior Member of Technical Staff, VMware. Technical lead for Velero
+:2020-2021: Senior Member of Technical Staff, VMware. Technical lead for `Velero`_
 
     * Led development team's delivery of milestones
-    * Set technical design and vision for evolving Velero into a more general use tool
+    * Set technical design and vision for evolving `Velero`_ into a more general use tool
     * Coordinated with other teams and business units to identify opportunities for shared outcomes
     * Mentored developers on the team via code/design review and direct one-on-one meetings
-    * Collaborated with community members to deliver new designs and code in Velero and plugins
+    * Collaborated with community members to deliver new designs and code in `Velero`_ and plugins
 
 :2017-2020: System Engineer, `Heptio`_. Developing tools for managing Kubernetes clusters
 
     * Implemented end-to-end testing for `Velero`_ on live Amazon Web Services clusters
-    * Designed Velero conflict handler plugin system
-    * Integrated Container Storage Interface (CSI) support for Velero (formerly Ark) to enable generic volume support.
+    * Designed `Velero`_ conflict handler plugin system
+    * Integrated Container Storage Interface (CSI) support for `Velero`_ (formerly Ark) to enable generic volume support.
 
 :2014-2017: Software Developer, Rackspace, Inc. Writing Ansible playbooks and roles for installing OpenStack.
 
