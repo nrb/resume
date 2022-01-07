@@ -39,7 +39,7 @@ Positions Held
 
 :2017-2020: System Engineer, `Heptio`_/VMware (acquired Dec 2019). Developing tools for managing Kubernetes clusters
 
-    * Integrated Container Storage Interface (CSI) support for `Velero`_ (formerly Ark) to enable generic volume support.
+    * Integrated `Container Storage Interface (CSI)`_ for `Velero`_ (formerly Ark) to enable generic volume support and expand user adoption
     * Implemented end-to-end testing for `Velero`_ on live Amazon Web Services clusters
     * Designed `Velero`_ conflict handler plugin system
 
@@ -109,3 +109,4 @@ Positions Held
 .. _`DevOps and Docker Live Show`: https://www.youtube.com/watch?v=pRgap975b5E
 .. _`TBS`: https://www.youtube.com/watch?v=eV_2QoMRqGw
 .. _`Tanzu Community Edition`: https://tanzucommunityedition.io/
+.. _`Container Storage Interface (CSI)`: https://kubernetes-csi.github.io/docs/
