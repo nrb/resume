@@ -22,11 +22,11 @@ Presentations
 Positions Held
 ==============
 
-:2021-present: Senior Member of Technical Staff, VMware. Developer and maintainer for Tanzu Community Edition
+:2021-present: Senior Member of Technical Staff, VMware. Developer and maintainer for `Tanzu Community Edition`_
 
-    * Integrated Sonobuoy into Tanzu Community Edition deliverables for ease of use
+    * Integrated Sonobuoy into `Tanzu Community Edition`_ deliverables for ease of use
     * Coordinated with broader Tanzu team to improve usability and iteration times when developing Tanzu plugins
-    * Coached internal and external contributors to Tanzu Community Edition
+    * Coached internal and external contributors to `Tanzu Community Edition`_
 
 :2020-2021: Senior Member of Technical Staff, VMware. Technical lead for `Velero`_
 
@@ -107,3 +107,4 @@ Positions Held
 .. _`CSI Volume Snapshots`: https://www.youtube.com/watch?v=CbA40krYZf0&t=2s
 .. _`DevOps and Docker Live Show`: https://www.youtube.com/watch?v=pRgap975b5E
 .. _`TBS`: https://www.youtube.com/watch?v=eV_2QoMRqGw
+.. _`Tanzu Community Edition`: https://tanzucommunityedition.io/
