@@ -14,10 +14,11 @@ Bachelor of Science in Informatics, December 2010. Indiana University
 
 Presentations
 =============
-:`ZODB`_: PyOhio 2012, presented on the Zope Object Database for Python applications.
-:`CSI Volume Snapshots`_: KubeCon NA 2019, presented Container Storage Interface volume snapshot support and its uses
-:`DevOps and Docker Live Show`_: Discussing Kubernetes backup and recovery on Bret Fisher's weekly show
-:`TBS`_: Discussing Kubernetes backup and recovery on the Crossplane-sponsored TBS show
+
+* `ZODB`_ (Zope Object Database) at PyOhio 2012
+* `CSI Volume Snapshots`_ at KubeCon NA 2019, presented Container Storage Interface volume snapshot support and its uses
+* `DevOps and Docker Live Show`_ stream, talked about Kubernetes backup and recovery
+* `TBS`_ podcast episode on Kubernetes backup and recovery
 
 Positions Held
 ==============
