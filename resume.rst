@@ -10,7 +10,7 @@ Simplify developer's lives and increases their effectiveness.
 
 Education
 =========
-Bachelor of Science in Informatics with concentration in Computer Science, December 2010. Indiana University South Bend, South Bend, IN.
+Bachelor of Science in Informatics, December 2010. Indiana University
 
 Presentations
 =============
