@@ -24,9 +24,9 @@ Positions Held
 
 :2021-present: Senior Member of Technical Staff, VMware. Developer and maintainer for `Tanzu Community Edition`_
 
-    * Integrated Sonobuoy into `Tanzu Community Edition`_ deliverables for ease of use
-    * Coordinated with broader Tanzu team to improve usability and iteration times when developing Tanzu plugins
     * Coached internal and external contributors to `Tanzu Community Edition`_
+    * Coordinated with broader Tanzu team to improve usability and iteration times when developing Tanzu plugins
+    * Integrated Sonobuoy into `Tanzu Community Edition`_ deliverables for ease of use
 
 :2020-2021: Senior Member of Technical Staff, VMware. Technical lead for `Velero`_
 
@@ -38,9 +38,9 @@ Positions Held
 
 :2017-2020: System Engineer, `Heptio`_. Developing tools for managing Kubernetes clusters
 
+    * Integrated Container Storage Interface (CSI) support for `Velero`_ (formerly Ark) to enable generic volume support.
     * Implemented end-to-end testing for `Velero`_ on live Amazon Web Services clusters
     * Designed `Velero`_ conflict handler plugin system
-    * Integrated Container Storage Interface (CSI) support for `Velero`_ (formerly Ark) to enable generic volume support.
 
 :2014-2017: Software Developer, Rackspace, Inc. Writing Ansible playbooks and roles for installing OpenStack.
 
