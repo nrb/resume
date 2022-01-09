@@ -4,10 +4,6 @@ Nolan Brubaker
 :Email: nolan@nbrubaker.com
 :GitHub: https://github.com/nrb
 
-Goal
-====
-Simplify developer's lives and increases their effectiveness.
-
 Education
 =========
 Bachelor of Science in Informatics, December 2010. Indiana University
