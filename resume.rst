@@ -21,16 +21,16 @@ Positions Held
 :2020-2021: Senior Member of Technical Staff, VMware. Technical lead for `Velero`_
 
     * Led development team's delivery of milestones
-    * Set technical design and vision for evolving `Velero`_ into a more general use tool
-    * Coordinated with other teams and business units to identify opportunities for shared outcomes
+    * Set technical design and vision for evolving `Velero`_'s Kubernetes data protection capabilities from Kubernetes resources and volumes to any data source
+    * Coordinated with internal teams and business units to identify opportunities for integrating with the VMware product and open source ecosystems
     * Mentored developers on the team via code/design review and direct one-on-one meetings
-    * Collaborated with community members to deliver new designs and code in `Velero`_ and plugins
+    * Collaborated with community members to deliver new technical designs and code in `Velero`_ and associated plugins
 
-:2017-2020: System Engineer, `Heptio`_/VMware (acquired Dec 2019). Developed tools for managing Kubernetes clusters
+:2017-2020: System Engineer, `Heptio`_ (acquired by VMware Dec 2019). Developed tools for managing Kubernetes clusters
 
-    * Integrated `Container Storage Interface (CSI)`_ for `Velero`_ (formerly Ark) to enable generic volume support and expand user adoption
-    * Implemented end-to-end testing for `Velero`_ on live Amazon Web Services clusters
-    * Designed `Velero`_ conflict handler plugin system
+    * Integrated Kubernetes `Container Storage Interface (CSI)`_ for `Velero`_ (formerly Ark) to enable generic volume support, expanding the platforms protected and options for users
+    * Implemented end-to-end testing for `Velero`_ on live Amazon Web Services Kubernetes clusters
+    * Designed `Velero`_ conflict handler plugin system when restoring resources that already exist into a Kubernetes cluster
 
 :2014-2017: Software Developer, Rackspace, Inc. Wrote Ansible playbooks and roles for installing OpenStack.
 
