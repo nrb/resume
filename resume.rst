@@ -9,14 +9,6 @@ Education
 =========
 Bachelor of Science in Informatics, December 2010. Indiana University
 
-Presentations
-=============
-
-* `ZODB`_ (Zope Object Database) at PyOhio 2012
-* `CSI Volume Snapshots`_ at KubeCon NA 2019, presented Container Storage Interface volume snapshot support and its uses
-* `DevOps and Docker Live Show`_ stream, talked about Kubernetes backup and recovery
-* `TBS`_ podcast episode on Kubernetes backup and recovery
-
 Positions Held
 ==============
 
@@ -86,6 +78,14 @@ Positions Held
 :2006-2010: Network Administrator - `MapleTronics Computers`_.  Managed internal network, as well as installing and managing networks, servers, and software for clients.
 
   * Automating processes through custom VBScript and PowerShell scripts.
+
+Presentations
+=============
+
+* `ZODB`_ (Zope Object Database) at PyOhio 2012
+* `CSI Volume Snapshots`_ at KubeCon NA 2019, presented Container Storage Interface volume snapshot support and its uses
+* `DevOps and Docker Live Show`_ stream, talked about Kubernetes backup and recovery in April 2020
+* `TBS`_ podcast episode on Kubernetes backup and recovery in May 2020
 
 .. _`Six Feet Up, Inc.`: http://www.sixfeetup.com
 .. _`Center for Research Computing`: http://crc.nd.edu
