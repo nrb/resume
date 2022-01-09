@@ -3,6 +3,7 @@ Nolan Brubaker
 
 :Email: nolan@nbrubaker.com
 :GitHub: https://github.com/nrb
+:LinkedIn: https://www.linkedin.com/in/nolan-brubaker
 
 Education
 =========
