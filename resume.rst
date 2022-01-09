@@ -7,7 +7,7 @@ Nolan Brubaker
 
 Education
 =========
-Bachelor of Science in Informatics, December 2010. Indiana University
+Bachelor of Science in Informatics and Computer Science, December 2010. Indiana University
 
 Positions Held
 ==============
