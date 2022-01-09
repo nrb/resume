@@ -16,7 +16,7 @@ Positions Held
 
     * Coached internal and external contributors to `Tanzu Community Edition`_
     * Coordinated with broader Tanzu team to improve usability and iteration times when developing Tanzu plugins
-    * Integrated Sonobuoy into `Tanzu Community Edition`_ deliverables for ease of use
+    * Integrated Sonobuoy diagnostics tool into `Tanzu Community Edition`_ tooling for ease of use and troubleshooting
 
 :2020-2021: Senior Member of Technical Staff, VMware. Technical lead for `Velero`_
 
