@@ -12,7 +12,7 @@ Bachelor of Science in Informatics, December 2010. Indiana University
 Positions Held
 ==============
 
-:2021-present: Senior Member of Technical Staff, VMware. Developing and maintaining `Tanzu Community Edition`_
+:2021-present: Senior Member of Technical Staff, VMware. Developed and maintained `Tanzu Community Edition`_
 
     * Coached internal and external contributors to `Tanzu Community Edition`_
     * Coordinated with broader Tanzu team to improve usability and iteration times when developing Tanzu plugins
@@ -26,13 +26,13 @@ Positions Held
     * Mentored developers on the team via code/design review and direct one-on-one meetings
     * Collaborated with community members to deliver new designs and code in `Velero`_ and plugins
 
-:2017-2020: System Engineer, `Heptio`_/VMware (acquired Dec 2019). Developing tools for managing Kubernetes clusters
+:2017-2020: System Engineer, `Heptio`_/VMware (acquired Dec 2019). Developed tools for managing Kubernetes clusters
 
     * Integrated `Container Storage Interface (CSI)`_ for `Velero`_ (formerly Ark) to enable generic volume support and expand user adoption
     * Implemented end-to-end testing for `Velero`_ on live Amazon Web Services clusters
     * Designed `Velero`_ conflict handler plugin system
 
-:2014-2017: Software Developer, Rackspace, Inc. Writing Ansible playbooks and roles for installing OpenStack.
+:2014-2017: Software Developer, Rackspace, Inc. Wrote Ansible playbooks and roles for installing OpenStack.
 
     * Implemented Ansible playbooks and roles for the `openstack-ansible`_ project and `rpc-openstack`_ product.
     * Triaged and prioritized bugs and feature requests from both community members and internal support staff.
@@ -41,19 +41,19 @@ Positions Held
     * Wrote initial developer documentation for `openstack-ansible`_.
     * Implemented unit and integration testing for existing Python dynamic inventory production code
 
-:2014: Automation Engineer, Cox Media Group. Improving and maintaining tools for a large (40+) developer team.
+:2014: Automation Engineer, Cox Media Group. Improved and maintained tools for a large (40+) developer team.
 
     * Implemented self-service jobs in Hudson/Jenkins for developers to start git repositories and caching PyPI packages.
     * Maintained custom bash and Python tools for wrapping applications, simplifying usage.
 
-:2013-2014: Software Developer, Cox Media Group. Improving and maintaining a large scale Django CMS (10 million page views per day).
+:2013-2014: Software Developer, Cox Media Group. Improved and maintained a large scale Django CMS (10 million page views per day).
 
     * Implemented retargeting pixel system to help serve unique ads to site visitors
     * Added methods for advertisement traffickers to manage Google Doubleclick for Publishers ads from within our custom CMS.
     * Wrote custom tools for managing our development environment
     * Documented existing Google ads integration library
 
-:2012-2013: Web Developer, `Six Feet Up, Inc.`_. Implementing and maintaining client Plone and Pyramid web sites and apps.
+:2012-2013: Web Developer, `Six Feet Up, Inc.`_. Implemented and maintained client Plone and Pyramid web sites and apps.
  
    * Implemented PubSubHubBub 'hub' and 'client' servers in Pyramid and Plone for syndicating content between various intranets.
    * Wrote and designed a Pyramid- and SQLAlchemy-based OpenID server
