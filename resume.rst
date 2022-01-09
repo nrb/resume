@@ -56,7 +56,6 @@ Positions Held
    * Implemented PubSubHubBub 'hub' and 'client' servers in Pyramid and Plone for syndicating content between various intranets.
    * Wrote and designed a Pyramid- and SQLAlchemy-based OpenID server
    * Implemented and maintained Pyramid package templates to make starting projects more efficient.
-   * Provided technical estimates and guidance to project managers and customers for project implementations.
 
 :2011-2012: Freelancer, specializing in Python and Django.  Clients included: Eldarion_, `Red Post`_, `Carbon Black`_
 
@@ -70,7 +69,6 @@ Positions Held
    * Began a framework based on Django_ and Celery_ for launching, managing, and reporting on jobs based on open source command line tools for monitoring environmental change. Originally prototyped in Erlang
    * Implemented a Django app to generate dynamic data for a Flash application meant to use static XML files.
    * Created web crawler that searched for words within poems on the web, and provided information on the pages it found for use with visualizations_ by an arts professor.
-   * Trained other programmers in better practices, like unit testing, source control, and bug tracking.
 
 
 :2006-2010: Network Administrator - `MapleTronics Computers`_.  Managed internal network, as well as installing and managing networks, servers, and software for clients.
