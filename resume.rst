@@ -14,14 +14,13 @@ Positions Held
 
 :2021-present: Senior Member of Technical Staff, VMware. Developed and maintained `Tanzu Community Edition`_
 
-    * Coached internal and external contributors to `Tanzu Community Edition`_
-    * Coordinated with broader Tanzu team to improve usability and iteration times when developing Tanzu plugins
-    * Integrated Sonobuoy diagnostics tool into `Tanzu Community Edition`_ tooling for ease of use and troubleshooting
+    * Coordinated with broader Tanzu team to improve plugin development experience with `Tanzu Community Edition`_ and `tanzu-framework`_
+    * Integrated `Sonobuoy`_ diagnostics tool into `Tanzu Community Edition`_ tooling to ease troubleshooting and verifying conformance of Kubernetes clusters
 
 :2020-2021: Senior Member of Technical Staff, VMware. Technical lead for `Velero`_
 
     * Led development team's delivery of milestones
-    * Set technical design and vision for evolving `Velero`_'s Kubernetes data protection capabilities from Kubernetes resources and volumes to any data source
+    * Set technical design and vision for evolving `Velero`_'s Kubernetes data protection capabilities from only Kubernetes resources and volumes to any data source
     * Coordinated with internal teams and business units to identify opportunities for integrating with the VMware product and open source ecosystems
     * Mentored developers on the team via code/design review and direct one-on-one meetings
     * Collaborated with community members to deliver new technical designs and code in `Velero`_ and associated plugins
@@ -34,12 +33,11 @@ Positions Held
 
 :2014-2017: Software Developer, Rackspace, Inc. Wrote Ansible playbooks and roles for installing OpenStack.
 
-    * Implemented Ansible playbooks and roles for the `openstack-ansible`_ project and `rpc-openstack`_ product.
-    * Triaged and prioritized bugs and feature requests from both community members and internal support staff.
     * Led project for upgrading `openstack-ansible`_/`rpc-openstack`_ code bases between Juno to Kilo and Kilo to Liberty codebases.
-    * Collaborated with community members and internal coworkers to write new feature specifications, online and in person.
-    * Wrote initial developer documentation for `openstack-ansible`_.
+    * Implemented Ansible playbooks and roles for the `openstack-ansible`_ project and `rpc-openstack`_ product.
     * Implemented unit and integration testing for existing Python dynamic inventory production code
+    * Wrote initial developer documentation for `openstack-ansible`_.
+    * Collaborated with community members and internal coworkers to write new feature specifications, online and in person.
 
 :2014: Automation Engineer, Cox Media Group. Improved and maintained tools for a large (40+) developer team.
 
@@ -107,3 +105,5 @@ Presentations
 .. _`TBS`: https://www.youtube.com/watch?v=eV_2QoMRqGw
 .. _`Tanzu Community Edition`: https://tanzucommunityedition.io/
 .. _`Container Storage Interface (CSI)`: https://kubernetes-csi.github.io/docs/
+.. _`tanzu-framework`: https://github.com/vmware-tanzu/tanzu-framework
+.. _`Sonobuoy`: https://sonobuoy.io/
