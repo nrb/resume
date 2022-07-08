@@ -12,7 +12,12 @@ Bachelor of Science in Informatics and Computer Science, December 2010. Indiana 
 Positions Held
 ==============
 
-:2021-present: Senior Member of Technical Staff, VMware. Developed and maintained `Tanzu Community Edition`_
+:2022: Software Engineer, `Speedscale`_. Developed Speedscale cloud service.
+
+    * Created initial Data Loss Prevention code for redacting data within HTTP requests, allowing more secure usage of the Speedscale service.
+    * Implemented auto-detection for Istio workloads, reducing customer friction when using Speedscale in complex environments.
+
+:2021-2022: Senior Member of Technical Staff, VMware. Developed and maintained `Tanzu Community Edition`_
 
     * Coordinated with broader Tanzu team to improve plugin development experience with `Tanzu Community Edition`_ and `tanzu-framework`_
     * Integrated `Sonobuoy`_ diagnostics tool into `Tanzu Community Edition`_ tooling to ease troubleshooting and verifying conformance of Kubernetes clusters
@@ -24,6 +29,7 @@ Positions Held
     * Coordinated with internal teams and business units to identify opportunities for integrating with the VMware product and open source ecosystems
     * Mentored developers on the team via code/design review and direct one-on-one meetings
     * Collaborated with community members to deliver new technical designs and code in `Velero`_ and associated plugins
+    * Granted US Patent 11341000, “Capturing and restoring persistent state of complex applications”. Granted May 24, 2022. Inventors: Dave Smith-Uchida, Somenath Bandyopadhyay, Jaswanth Gummadi, Lintong Jiang, Deepak Kinni, Revathy Shunmugam, Xinyan Wu, Nolan Brubaker, Derek Uluski, Xiao Liu
 
 :2017-2020: System Engineer, `Heptio`_ (acquired by VMware Dec 2019). Developed tools for managing Kubernetes clusters
 
@@ -105,3 +111,4 @@ Presentations
 .. _`Container Storage Interface (CSI)`: https://kubernetes-csi.github.io/docs/
 .. _`tanzu-framework`: https://github.com/vmware-tanzu/tanzu-framework
 .. _`Sonobuoy`: https://sonobuoy.io/
+.. _`Speedscale`: https://www.speedscale.com
